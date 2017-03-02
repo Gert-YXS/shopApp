@@ -1,0 +1,152 @@
+{
+    "msg": "",
+    "param": {
+        "tagList": {},
+        "parentTagList": [],
+        "advertList": [
+            {
+                "id": "8",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/18/d41e65b1-004e-4531-b064-69a3cc5dc2ef.jpg",
+                "title": "西藏那曲虫草",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/webappinfo.action?id=951",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "14",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/26/01e734a1-ff8f-42d5-b3cf-e891d8d7e853.jpg",
+                "title": "奇华月饼 厂价直销",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%A5%87%E5%8D%8E",
+                "createDate": "2016-01-07"
+            },
+            {
+                "id": "15",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/23/6b7d96db-6429-4cca-a5f7-ace6609c46ea.jpg",
+                "title": "农家散养土鸡蛋",
+                "url": "http://www.gdshyj.com/shop/webapp/index/food/shenghuoshipinganddetail.action#shenghuoshiping=1105",
+                "createDate": "2016-01-07"
+            }
+        ]
+    },
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "39.0",
+                "salesPrice": "26.0",
+                "sysTime": "2017-02-22 15:34:38",
+                "id": "1519",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/11/96998ec6-0ff2-4784-beca-f14dcb67a23b.jpg",
+                "title": "纯手工酸甜辣萝卜干180ml  辣椒酱280ml 无添加",
+                "content": "<div style=\"text-align: center;\">\r\n\t<strong><span style=\"font-size:18px;\"><span style=\"color:#0000cd;\">纯手工无添加</span><br />\r\n\t<span style=\"color:#4b0082;\">【</span></span></strong><strong style=\"font-size: 13.3333px;\"><span style=\"font-size: 18px;\"><span style=\"color: rgb(75, 0, 130);\">酸甜萝卜干13元/瓶</span></span></strong><strong style=\"font-size: 12px;\"><span style=\"font-size:18px;\"><span style=\"color:#4b0082;\">】</span></span></strong></div>\r\n<div style=\"text-align: center;\">\r\n\t<strong><span style=\"font-size:18px;\"><span style=\"color:#4b0082;\">【</span></span></strong><strong style=\"font-size: 13.3333px;\"><span style=\"font-size: 18px;\"><span style=\"color: rgb(75, 0, 130);\">辣椒酱16元/瓶</span></span></strong><strong><span style=\"font-size:18px;\"><span style=\"color:#4b0082;\">】</span></span><br />\r\n\t<span style=\"font-size:20px;\">2瓶起包邮</span></strong><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/11/c2b7a0f7-b7cb-4c89-9080-68cc68f4ef69.jpg\" style=\"font-size: 12px;\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/11/57991be1-dfec-484b-a04d-023f282c1581.jpg\" /></div>\r\n",
+                "createDate": "2017-01-11"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "35.0",
+                "salesPrice": "26.0",
+                "sysTime": "2017-02-22 15:34:38",
+                "id": "1498",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/4/1fe07106-b0df-440d-a796-80ffe70d981c.jpg",
+                "title": "东坡西子酱 东坡盏 梅仙蓉 卧澜香",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/4/f7f28907-bb82-4e6d-9d29-c5e0a4d3940e.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/4/f46e9c60-8197-483b-b21c-1c1847bd9ea8.jpg\" /></div>\r\n",
+                "createDate": "2017-01-04"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "128.0",
+                "salesPrice": "99.0",
+                "sysTime": "2017-02-22 15:34:38",
+                "id": "1480",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/27/0c4840df-f303-40cc-838c-b2a8e202fcad.jpg",
+                "title": "私房自制秘方鸡脚 3盒顺丰包邮",
+                "content": "<div style=\"text-align: center;\">\r\n\t<strong><span style=\"color:#0000ff;\"><span style=\"font-size:16px;\">3盒起售，顺丰包邮</span></span></strong><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/27/e7477fb0-821e-4861-9816-7af11e3123ad.jpg\" /></div>\r\n",
+                "createDate": "2016-12-27"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "158.0",
+                "salesPrice": "128.0",
+                "sysTime": "2017-02-22 15:34:38",
+                "id": "1365",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/6/39648229-5a11-4e08-99e9-aae619e4b4b3.jpg",
+                "title": "原生态果园走地鸡 黑羽鸡 大阉鸡 生鸡 大黄鸡",
+                "content": "<div style=\"text-align: center;\">\r\n\t<span style=\"color:#000080;\"><strong><span style=\"font-size:16px;\">上午11点前下单，下午配送<br />\r\n\t11点后下单的次日下午配送</span></strong></span><br />\r\n\t<strong><span style=\"color:#ff0000;\"><span style=\"font-size:20px;\">抢购热线：13928395808</span></span></strong><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/6/d02a1fe2-2522-4a3f-90b1-d6e897876949.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/6/6a029067-9352-4cfe-95ce-8a0a3421f102.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/6/38ae652e-91bc-4d76-b8c3-189a33f53af3.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/6/44a85557-c42a-4efb-8c5b-9d9b27dda5ab.jpg\" /></div>\r\n",
+                "createDate": "2016-12-07"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "109.0",
+                "salesPrice": "88.0",
+                "sysTime": "2017-02-22 15:34:38",
+                "id": "1238",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/20/c8c411c3-720e-419f-b38c-ad690f1bead8.jpg",
+                "title": "石坝鲜土鸡蛋 60枚/2.4kg",
+                "content": "<div style=\"text-align: center;\">\r\n\t<strong><span style=\"font-size:20px;\"><span style=\"color:#8b4513;\">石坝鲜土鸡蛋</span><br />\r\n\t<span style=\"color:#2f4f4f;\">顺丰快递箱装60个&nbsp; &nbsp;&nbsp;&nbsp; 88元/箱<br />\r\n\t顾客自取礼品装4.8斤 65元/箱</span></span><br />\r\n\t<span style=\"color:#4b0082;\"><span style=\"font-size:16px;\">自取地址：惠城区大湖溪宝安山水龙城<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/20/f0e8172c-f95b-4230-a781-cd6e3ad55882.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/20/adb7c73c-76bd-4c30-a7a2-84ffde23913b.jpg\" /></span></span></strong><br />\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/18/b10a9cdc-f75b-49e8-ba33-31b59bbd13b8.jpg\" /></div>\r\n",
+                "createDate": "2016-12-02"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "42.0",
+                "salesPrice": "30.0",
+                "sysTime": "2017-02-22 15:34:38",
+                "id": "1039",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/30/4ef8dc8d-22c8-4112-8ea2-e9c4d70d6c83.jpg",
+                "title": "潮汕特产惠来肉卷 炸猪肉 无淀粉 手工卷",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/30/14805d9b-f68d-411f-8df6-20ce1b45e82f.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/30/8b77cf70-1752-4306-8a9d-e4283398fe38.jpg\" /></div>\r\n",
+                "createDate": "2016-11-24"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "99.0",
+                "salesPrice": "75.0",
+                "sysTime": "2017-02-22 15:34:38",
+                "id": "1037",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/30/c356f37d-79b1-4fcc-9cd1-05f6dac49d00.jpg",
+                "title": "潮汕正宗惠来虾枣 纯手工虾肉不添加色素",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/30/7146e96f-4e09-4947-bcde-22a5a50f653e.jpg\" /><br />\r\n\t<strong style=\"color: rgb(255, 0, 0); font-size: 13.3333px;\"><span style=\"font-size: 18px;\"><span style=\"background-color: rgb(250, 235, 215);\">发顺丰快递&middot;保新鲜快捷</span></span></strong><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/30/8c26e327-efe3-451f-939e-97de69ed291d.jpg\" /><br />\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/30/0287dbad-5851-462a-8b04-3609490564f1.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/30/8d9c36f6-d103-45fb-a130-2a07f2dd5c61.jpg\" /></div>\r\n",
+                "createDate": "2016-11-24"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "79.0",
+                "salesPrice": "55.0",
+                "sysTime": "2017-02-22 15:34:38",
+                "id": "1324",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/20/08027d93-046b-4454-86ef-cba34e76e5f6.jpg",
+                "title": "正宗潮汕牛肉丸、牛筋丸 3斤包邮",
+                "content": "<div style=\"text-align: center;\">\r\n\t<span style=\"font-size:16px;\"><span style=\"color:#800000;\">正宗潮汕牛肉丸、牛筋丸</span></span><br />\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/11/20/1111991e-64d5-49cf-9deb-659764ec9e42.jpg\" /></div>\r\n",
+                "createDate": "2016-11-24"
+            },
+            {
+                "salesCount": "5000",
+                "marketPrice": "129.0",
+                "salesPrice": "88.0",
+                "sysTime": "2017-02-22 15:34:38",
+                "id": "1330",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/21/f521ac6b-3c60-47c1-b6ea-b5e4d49440e1.jpg",
+                "title": "10斤装 丹霞皇帝柑 正宗贡柑 柑橘果园新鲜水果礼盒装",
+                "content": "<div style=\"text-align: center;\">\r\n\t<strong><span style=\"font-size:20px;\">韶关果园发货<br />\r\n\t广东省内包邮<br />\r\n\t正宗丹霞皇帝贡柑10斤礼盒装<br />\r\n\t皇帝桔家乡特产！原生态山区土家贡柑，无加工无公害原味贡柑。营养丰富，口感正宗。为了你们可以直接吃到最新鲜无公害的橘子，我们是现摘现寄的，而不是市场上价格高又有&ldquo;打过蜡，打过保鲜剂&rdquo;的皇帝桔！！</span></strong><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/11/21/d7929617-fc86-4056-a98b-f1677bb81893.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/11/21/343b6eb8-3973-44cf-b949-649f6a8d451d.jpg\" /></div>\r\n",
+                "createDate": "2016-11-21"
+            },
+            {
+                "salesCount": "99",
+                "marketPrice": "158.0",
+                "salesPrice": "128.0",
+                "sysTime": "2017-02-22 15:34:38",
+                "id": "1216",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/10/05bb11d9-7130-4bb8-8bc4-6b4938f82b1a.jpg",
+                "title": "双11特卖：广东龙门胡须鸡 1.15kg /只 送胡须鸡蛋1斤",
+                "content": "<div style=\"text-align: center;\">\r\n\t<strong style=\"font-family: 'Microsoft YaHei', Helvetica, Tahoma, Arial, sans-serif; font-size: 13.3333px; color: rgb(0, 0, 255);\"><span style=\"font-size: 16px;\"><span style=\"color: rgb(255, 0, 0);\"><span style=\"font-size: 20px;\">即日起至双11期间购买送1斤胡须鸡蛋</span></span></span></strong><br />\r\n\t<span style=\"color:#0000ff;\"><strong><span style=\"font-size:16px;\">胡须鸡每只折后价128元赠送两个鸡蛋<br />\r\n\t三只以上每只减10元<br />\r\n\t<br />\r\n\t带毛鸡3斤4左右，宰杀后2斤6左右<br />\r\n\t<br />\r\n\t为保证鸡的口感及新鲜度，胡须鸡每天早上人工宰杀，冰袋、密封箱装起<br />\r\n\t<br />\r\n\t每天上午11点顺丰统一发货，下午四五点到达<br />\r\n\t<br />\r\n\t【抢购热线】<br />\r\n\t13413120162邓先生 &nbsp;15016048842钟小姐</span></strong></span><br />\r\n\t<br />\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/10/f3e06bab-752c-40dc-bdd1-ad543daf3e4d.jpg\" /></div>\r\n",
+                "createDate": "2016-11-04"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 2,
+        "totalRecord": 20,
+        "updateTime": ""
+    },
+    "status": 0
+}

@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=382",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "广州市荔湾区华林国际C馆B6032",
+                "distance": "12.0",
+                "phone": "15913113945",
+                "log": "113.24681426990466",
+                "toPhone": "",
+                "companyName": "钟玉一生",
+                "shortDesc": "【生活一家会员专享优惠，详情咨询请商家】玉器要避免阳光的暴晒。防止影响到玉的质地和色泽。",
+                "id": "240",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/7d255a55-dea0-4bb9-a3a8-4713c6efda73.jpg",
+                "title": "钟玉一生",
+                "lat": "23.117971708088213",
+                "createDate": "2016-07-11"
+            },
+            {
+                "address": "惠城区东湖花园1区江边89-27号",
+                "distance": "87.3",
+                "phone": "13790779003",
+                "log": "114.19215047359089",
+                "toPhone": "",
+                "companyName": "新节奏（东平）",
+                "shortDesc": "【生活一家会员专享：架子鼓八折优惠】",
+                "id": "485",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/1/ecb99d1c-1ad6-407d-823d-da7215f20059.png",
+                "title": "新节奏（东平）",
+                "lat": "23.07805913257078",
+                "createDate": "2016-08-01"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇桥东五路光明苑小区旁",
+                "distance": "96.2",
+                "phone": "13202333760",
+                "log": "114.28567962095181",
+                "toPhone": "",
+                "companyName": "true Love1966服装店（博罗）",
+                "shortDesc": "【生活一家会员专享：消费享9折优惠】\r\n\r\n承接各种纯棉校服，班服，工作服，广告衫。",
+                "id": "837",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/7/d98bbde5-24d7-454e-865d-25b1ced561a3.jpg",
+                "title": "true Love1966服装店（博罗）",
+                "lat": "23.170881558215132",
+                "createDate": "2016-10-07"
+            },
+            {
+                "address": "惠州陈江甲子路59号",
+                "distance": "101.3",
+                "phone": "15820700407",
+                "log": "114.31856542934308",
+                "toPhone": "",
+                "companyName": "Vivo专卖店（陈江）",
+                "shortDesc": "【生活一家会员专享：凭会员购买手机优惠100元】",
+                "id": "608",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/6/9c22ee59-93f6-4a42-b871-fbf4dd9d05ca.png",
+                "title": "Vivo专卖店（陈江）",
+                "lat": "23.00664587029995",
+                "createDate": "2016-08-06"
+            },
+            {
+                "address": "惠州市惠城区陈江甲子路 民乐福商场陈江店 3楼",
+                "distance": "101.4",
+                "phone": "13528095270",
+                "log": "114.31913015386804",
+                "toPhone": "",
+                "companyName": "YES女装（陈江）",
+                "shortDesc": "【生活一家会员专享：8.8折优惠】\r\nYES Superstore诞生于1993年，以百搭时尚、快时尚为品牌核心，携带着无限青春梦想、时尚元素从香港回归到国内，为中国女性消费者发现和分享香港潮流文化的服饰品牌。",
+                "id": "357",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/22/572c7073-ad0e-4ea9-890b-0286acd66478.jpg",
+                "title": "YES女装（陈江）",
+                "lat": "23.00677843665396",
+                "createDate": "2016-07-22"
+            },
+            {
+                "address": "惠城区河南岸银岭路30号",
+                "distance": "101.7",
+                "phone": "13692843118",
+                "log": "114.32295975006348",
+                "toPhone": "",
+                "companyName": "龙盛水族（河南岸）",
+                "shortDesc": "【生活一家会员专享：全场9折优惠】",
+                "id": "678",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/26/2dca8f0c-e779-434a-bd75-b7a06eb23cfd.jpg",
+                "title": "龙盛水族（河南岸）",
+                "lat": "23.010240441885774",
+                "createDate": "2016-08-26"
+            },
+            {
+                "address": "惠州市陈江曙光路87号",
+                "distance": "102.0",
+                "phone": "18026508085",
+                "log": "114.32363685764199",
+                "toPhone": "",
+                "companyName": "小刀电动车（陈江店）",
+                "shortDesc": "【生活一家会员专享：9折优惠】\r\n\r\n小刀集团成立于2004年，是一家致力于发展绿色电动出行代步工具的大型生产制造企业，主营产品包括：电动自行车、电动三轮车、电动四轮车及特种车辆。",
+                "id": "599",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/5/4dab4d92-b60c-4a4e-a862-76845c6ca436.jpg",
+                "title": "小刀电动车（陈江店）",
+                "lat": "22.997363142379225",
+                "createDate": "2016-08-05"
+            },
+            {
+                "address": "惠州市惠城区大岭路32-3号",
+                "distance": "106.8",
+                "phone": "13711605545",
+                "log": "114.38399964921285",
+                "toPhone": "",
+                "companyName": "捷豹自行车行（大岭路）",
+                "shortDesc": "【生活一家会员专享：租车8折优惠】捷豹自行车行：出售、出租自行车",
+                "id": "536",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/4/3c6391cb-f706-42a0-aa02-463e2ec9532f.jpg",
+                "title": "捷豹自行车行（大岭路）",
+                "lat": "23.075540125670084",
+                "createDate": "2016-08-04"
+            },
+            {
+                "address": "惠州市惠城区上排龙丰路园蓬街4-6号",
+                "distance": "107.1",
+                "phone": "13112096685",
+                "log": "114.38719954778351",
+                "toPhone": "",
+                "companyName": "养生灵芝商行（上排）",
+                "shortDesc": "【生活一家会员专享：8折优惠】\r\n厂家自营：灵芝孢子粉",
+                "id": "985",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/27/cbc17fda-051f-41b5-9965-66964ca7ac67.jpg",
+                "title": "养生灵芝商行（上排）",
+                "lat": "23.07628027255163",
+                "createDate": "2016-11-27"
+            },
+            {
+                "address": "惠州市惠城区黄塘电脑城五号楼A113铺，文盛科技",
+                "distance": "108.0",
+                "phone": "13422905832",
+                "log": "114.39625749253376",
+                "toPhone": "",
+                "companyName": "文盛科技（黄塘电脑城）",
+                "shortDesc": "【生活一家会员专享：装机送无线鼠标键盘一套，高清摄像头一个】\r\n",
+                "id": "1042",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/5/6a0694b0-f2d2-4a3c-9c8a-c8d08b318ddf.jpg",
+                "title": "文盛科技（黄塘电脑城）",
+                "lat": "23.081719850057997",
+                "createDate": "2017-01-05"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 14,
+        "totalRecord": 137,
+        "updateTime": ""
+    },
+    "status": "0"
+}

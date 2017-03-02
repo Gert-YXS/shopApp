@@ -1,0 +1,210 @@
+{
+    "list": {
+        "scrollImg": [
+            {
+                "id": "10",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/21/0ee58831-74d7-4e04-9b78-3fef9e21bd62.jpg",
+                "title": "先锋暖风机",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%85%88%E9%94%8B%E6%9A%96%E9%A3%8E%E6%9C%BA",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "32",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/7/4457b6be-21fd-4c16-a8c8-200633069944.jpg",
+                "title": "",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/info.action?id=1143",
+                "createDate": "2016-10-07"
+            },
+            {
+                "id": "19",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/4/756e198b-05f8-4335-8473-14a79733ec06.jpg",
+                "title": "飞科 带你走进科技的世界",
+                "url": "http://www.gdshyj.com/webapp/index/search_result.action?searchKey=%E9%A3%9E%E7%A7%91",
+                "createDate": "2016-02-20"
+            },
+            {
+                "id": "29",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/44bbf26c-d3c7-44a7-90f2-a4f5f9e2c045.jpg",
+                "title": "苏泊尔",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E8%8B%8F%E6%B3%8A%E5%B0%94",
+                "createDate": "2016-07-11"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "232",
+                "title": "小家电"
+            },
+            {
+                "id": "233",
+                "title": "大家电"
+            },
+            {
+                "id": "234",
+                "title": "手机数码"
+            },
+            {
+                "id": "336",
+                "title": "电脑办公"
+            },
+            {
+                "id": "337",
+                "title": "名表首饰"
+            },
+            {
+                "id": "365",
+                "title": "化妆品"
+            },
+            {
+                "id": "370",
+                "title": "服装"
+            },
+            {
+                "id": "371",
+                "title": "女装"
+            },
+            {
+                "id": "372",
+                "title": "母婴"
+            },
+            {
+                "id": "373",
+                "title": "鞋靴箱包"
+            },
+            {
+                "id": "374",
+                "title": "运动户外"
+            },
+            {
+                "id": "375",
+                "title": "汽车用品"
+            },
+            {
+                "id": "380",
+                "title": "日常用品"
+            },
+            {
+                "id": "395",
+                "title": "床上用品"
+            }
+        ],
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "96.0",
+                "salesPrice": "60.0",
+                "sysTime": "2017-02-21 16:47:17",
+                "id": "1599",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/17/5449d9f1-4c2e-416c-8e4b-d272b202135c.jpg",
+                "title": "迪士尼(Disney)萌萌米奇不锈钢儿童餐具 饮水杯 宝宝水杯（韩国进口）",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/17/01ca175f-5491-4ac7-96b5-43cbae555094.jpg\" /></div>\r\n",
+                "createDate": "2017-02-17"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "286.0",
+                "salesPrice": "180.0",
+                "sysTime": "2017-02-21 16:47:17",
+                "id": "1598",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/16/b2d5e7e7-d629-4077-ba65-904592fa1528.jpg",
+                "title": "迪士尼(Disney)维尼不锈钢儿童餐具套装 活力4件套礼盒装（韩国进口）",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/3af80b9f-a84b-4a7f-8dfb-bef00046d647.jpg\" /></div>\r\n",
+                "createDate": "2017-02-16"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "138.0",
+                "salesPrice": "85.0",
+                "sysTime": "2017-02-21 16:47:17",
+                "id": "1597",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/16/f4944ed7-01a7-46c9-8439-79e2bb3c63d3.jpg",
+                "title": "哆啦A梦（Doraemon）不锈钢儿餐具 婴儿碗 宝宝双手柄防滑碗童（韩国进口）",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/6ae1b698-512f-47ca-882b-7193667b8ca3.jpg\" /></div>\r\n",
+                "createDate": "2017-02-16"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "108.0",
+                "salesPrice": "68.0",
+                "sysTime": "2017-02-21 16:47:17",
+                "id": "1596",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/16/7cc87577-9ca5-45bc-8e93-62268328f718.jpg",
+                "title": "迪士尼(Disney)萌萌米奇不锈钢儿童餐具 婴儿碗 宝宝双耳防滑碗",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/05ef34ac-1aba-41b2-87cd-563824dd4018.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/1b1a816f-37ba-47d0-82e5-e878865ff29b.jpg\" /></div>\r\n",
+                "createDate": "2017-02-16"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "39.0",
+                "salesPrice": "25.0",
+                "sysTime": "2017-02-21 16:47:17",
+                "id": "1595",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/16/58ee21bb-b89a-478f-891b-78257c867540.jpg",
+                "title": "迪士尼宝宝水杯吸管杯婴儿学饮杯防漏带手柄水杯 240ml5823",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/bfa40a8d-10da-4ec8-96d3-32c7a5ad0105.jpg\" /></div>\r\n",
+                "createDate": "2017-02-16"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "158.0",
+                "salesPrice": "92.0",
+                "sysTime": "2017-02-21 16:47:17",
+                "id": "1594",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/16/b698262d-5ca9-44d8-8b5a-a5eb757fdedd.jpg",
+                "title": "乐儿宝 金彩系列 玻璃奶瓶宽口径 吸管带手柄 240ml ILP550-R ILP550-Y  ILP550-G ILP550-B",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/1fd52c7f-08ae-4187-b49a-f162292961e2.jpg\" /></div>\r\n",
+                "createDate": "2017-02-16"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "199.0",
+                "salesPrice": "108.0",
+                "sysTime": "2017-02-21 16:47:17",
+                "id": "1593",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/16/41d0ce61-9de5-4317-af52-4ee8307b18c7.jpg",
+                "title": "乐儿宝吸奶器 仿真手动吸奶器",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/2cacc4d8-c205-4507-b811-02dd9bd83358.jpg\" /></div>\r\n",
+                "createDate": "2017-02-16"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "69.0",
+                "salesPrice": "24.0",
+                "sysTime": "2017-02-21 16:47:17",
+                "id": "1592",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/16/d828f777-7c91-4daf-9150-a03c57f4245f.jpg",
+                "title": "乐儿宝（bobo）儿童吸管杯 宝宝学饮杯防漏喝水杯240m",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/d8c25b32-2794-494a-9f09-d05a6cc81d6e.jpg\" /></div>\r\n",
+                "createDate": "2017-02-16"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "99.0",
+                "salesPrice": "77.0",
+                "sysTime": "2017-02-21 16:47:17",
+                "id": "1591",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/16/d82abd5f-04df-498a-9df9-8238fe755f0a.jpg",
+                "title": "好奇尿裤 Huggies 金装 婴儿纸尿裤 中号尿不湿M50+4片【7-11kg】 大号L40+6片",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/a3677911-ce08-4bb0-8501-32bf08a515d2.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/9e644e7b-0b14-48c7-8517-b466dc443547.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/09f601a0-9adf-4526-b542-6c55f8d59312.gif\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/16/a140724c-dda1-4eb7-8af4-b1a0762912ad.jpg\" /></div>\r\n",
+                "createDate": "2017-02-16"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "188.0",
+                "salesPrice": "150.0",
+                "sysTime": "2017-02-21 16:47:17",
+                "id": "1093",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/14/507431a9-aae5-4b5e-8a8b-ea4e9de571b0.jpg",
+                "title": "美赞臣明星版奶粉1~2~3段990克婴儿奶粉罐装安儿宝a+",
+                "content": "<div style=\"text-align: center;\">\r\n\t<span style=\"color: rgb(105, 105, 105); font-family: 'Microsoft YaHei', Helvetica, Tahoma, Arial, sans-serif; font-size: 16px;\">本产品由惠州(爱婴宝贝)孕婴儿童用品商场提供</span></div>\r\n<div style=\"text-align: center;\">\r\n\t<span style=\"color: rgb(0, 0, 0); font-family: 'Microsoft YaHei', Helvetica, Tahoma, Arial, sans-serif; text-align: center; font-size: 16px;\"><span style=\"color: rgb(128, 0, 0);\">惠城区5公里内可免费送货，也可到店自提<br />\r\n\t联系电话：0752-3104899</span><br />\r\n\t地址：</span><u style=\"color: rgb(0, 0, 0); font-family: 'Microsoft YaHei', Helvetica, Tahoma, Arial, sans-serif; font-size: 13.3333px; text-align: center;\">惠城区河南岸新岸路8号(人人乐后面)</u><br style=\"color: rgb(0, 0, 0); font-family: 'Microsoft YaHei', Helvetica, Tahoma, Arial, sans-serif; font-size: 13.3333px; text-align: center;\" />\r\n\t<span style=\"color: rgb(0, 0, 0); font-family: 'Microsoft YaHei', Helvetica, Tahoma, Arial, sans-serif; text-align: center; font-size: 16px;\"><span style=\"color: rgb(0, 0, 128);\">市区外发快递需加快递费用<strong>10元</strong>，请自行拍下<br />\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/14/92ef70d2-38ba-4b20-9ee3-79e13a1933a1.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/14/b552ace9-e7b0-440c-a804-11a5d2033dae.jpg\" /></span></span></div>\r\n",
+                "createDate": "2016-09-14"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 2,
+        "totalRecord": 15,
+        "updateTime": ""
+    },
+    "status": 0
+}

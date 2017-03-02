@@ -1,0 +1,160 @@
+{
+    "url":"http://www.gdshyj.com/shop/mproduct!list.action?pageNum=1&productType=2&advertType=5&type=2&bigCategoryId=232",
+    "msg": "",
+    "param": {
+        "tagList": {},
+        "parentTagList": [],
+        "advertList": [
+            {
+                "id": "10",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/21/0ee58831-74d7-4e04-9b78-3fef9e21bd62.jpg",
+                "title": "先锋暖风机",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%85%88%E9%94%8B%E6%9A%96%E9%A3%8E%E6%9C%BA",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "32",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/7/4457b6be-21fd-4c16-a8c8-200633069944.jpg",
+                "title": "",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/info.action?id=1143",
+                "createDate": "2016-10-07"
+            },
+            {
+                "id": "19",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/4/756e198b-05f8-4335-8473-14a79733ec06.jpg",
+                "title": "飞科 带你走进科技的世界",
+                "url": "http://www.gdshyj.com/webapp/index/search_result.action?searchKey=%E9%A3%9E%E7%A7%91",
+                "createDate": "2016-02-20"
+            },
+            {
+                "id": "29",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/44bbf26c-d3c7-44a7-90f2-a4f5f9e2c045.jpg",
+                "title": "苏泊尔",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E8%8B%8F%E6%B3%8A%E5%B0%94",
+                "createDate": "2016-07-11"
+            }
+        ]
+    },
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "269.0",
+                "salesPrice": "199.0",
+                "sysTime": "2017-02-21 16:39:54",
+                "id": "1608",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/21/cb0ab44f-8551-494e-976b-2ff85f95452a.jpg",
+                "title": "苏泊尔豆浆机 DJ11B-W10豆浆机家用多功能全自动无网不锈钢",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/4f59a32b-ca3c-49cc-8f06-6c76c6476619.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/b4ac5978-800e-4ccd-9f89-cbb287cce4d6.jpg\" /></div>\r\n",
+                "createDate": "2017-02-21"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "259.0",
+                "salesPrice": "199.0",
+                "sysTime": "2017-02-21 16:39:54",
+                "id": "1607",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/21/faf6907c-53e7-4309-8c11-fb7133fbee20.jpg",
+                "title": "苏泊尔电水壶 SWF17S10A电热水壶 304不锈钢电水壶保温烧水壶家用1.7L",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/7abaa808-ff00-45f4-988f-bec8303a9dab.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/e33e0d5d-c118-4e6e-b416-f622977a4c9c.jpg\" /></div>\r\n",
+                "createDate": "2017-02-21"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "159.0",
+                "salesPrice": "119.0",
+                "sysTime": "2017-02-21 16:39:54",
+                "id": "1606",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/21/927f4e03-50e9-4213-a2ce-1fdf30d53ca5.jpg",
+                "title": "苏泊尔电水壶 SWF17S20A电热水壶304不锈钢保温双层烧水壶器家用",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/5cd98f16-6043-4c32-b5e4-d5de209c24ca.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/f74057f7-d1d1-4238-bde8-d9a628ffcae9.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/00709c85-d225-46a3-b4f9-bdd1e44a9201.gif\" /></div>\r\n",
+                "createDate": "2017-02-21"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "179.0",
+                "salesPrice": "99.0",
+                "sysTime": "2017-02-21 16:39:54",
+                "id": "1605",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/21/b75ce1d8-d478-44ad-8f03-53c651f9d380.jpg",
+                "title": "苏泊尔电水壶 SWF15S19A 双层防烫保温电水壶304不锈钢1.5升",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/def8eb40-b520-47d8-8049-84ed0d862946.jpg\" /></div>\r\n",
+                "createDate": "2017-02-21"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "399.0",
+                "salesPrice": "299.0",
+                "sysTime": "2017-02-21 16:39:54",
+                "id": "1604",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/21/71fdf70b-e4f7-4888-bf84-92fd6d439d0e.jpg",
+                "title": "苏泊尔电磁炉SDHCB88T-210密集火 火力一键控制LTE抛光面板电磁炉",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/0d717da2-c41e-4d26-b897-d760cd8efb34.jpg\" /></div>\r\n",
+                "createDate": "2017-02-21"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "339.0",
+                "salesPrice": "239.0",
+                "sysTime": "2017-02-21 16:39:54",
+                "id": "1603",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/21/31697d22-4eec-46ba-b3cb-53a8d768c09c.jpg",
+                "title": "苏泊尔电磁炉 SDHCB12T-210家用触摸大火力火锅电磁炉",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/804b66c7-e00d-43d8-a8c9-306a06bb77ca.jpg\" /></div>\r\n",
+                "createDate": "2017-02-21"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "259.0",
+                "salesPrice": "179.0",
+                "sysTime": "2017-02-21 16:39:54",
+                "id": "1602",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/21/9c4b1620-c813-4fee-a2b0-f27cd4c9b37d.jpg",
+                "title": "苏泊尔电磁炉SDHCB11T-210触摸屏火锅特价正品全国联保村淘",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/8be0b662-98d6-45bb-a8b5-190f89643e7d.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/ac4c45b5-38d7-4771-a86d-e5df88020b07.jpg\" /></div>\r\n",
+                "createDate": "2017-02-21"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "459.0",
+                "salesPrice": "319.0",
+                "sysTime": "2017-02-21 16:39:54",
+                "id": "1601",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/21/26e93a44-aa3b-4b73-bae2-d16ad3a44ba5.jpg",
+                "title": "苏泊尔电饭煲 CFXB40FC533T-75全自动智能型电饭煲球釜内胆4L CFXB50FC533T-75 5L",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/7b773392-1d81-4574-986d-e62226e6c1e3.jpg\" /></div>\r\n",
+                "createDate": "2017-02-21"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "368.0",
+                "salesPrice": "268.0",
+                "sysTime": "2017-02-21 16:39:54",
+                "id": "1581",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/14/e533767e-4cd4-4c28-a38d-888a62c74be4.jpg",
+                "title": "美的电压力锅智能版PCS6028P电压力锅6L高压锅6-7人",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/14/baaae631-94b2-4125-ac5e-6c4ee5f9d590.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/14/e0dc1c1f-08fd-4b43-a8a2-fc8eb152013b.jpg\" /></div>\r\n",
+                "createDate": "2017-02-14"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "339.0",
+                "salesPrice": "238.0",
+                "sysTime": "2017-02-21 16:39:54",
+                "id": "1580",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/14/f4c5b986-e18b-4418-8ccc-06bbb9547337.jpg",
+                "title": "美的电压力锅 PCS5030 5升 高压锅 预约功能电脑版智能",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/14/a86309f9-46e3-456f-aa60-633df040b849.jpg\" /></div>\r\n",
+                "createDate": "2017-02-14"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 22,
+        "totalRecord": 220,
+        "updateTime": ""
+    },
+    "status": 0
+}

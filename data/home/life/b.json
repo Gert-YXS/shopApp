@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=189",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "博罗县罗阳镇佳兆业东江新城3期高层9号商铺洪辉装饰",
+                "distance": "95.8",
+                "phone": "07526928333",
+                "log": "114.28145243040909",
+                "toPhone": "13126305265",
+                "companyName": "洪辉装饰（罗阳）",
+                "shortDesc": "【生活一家会员专享： 下订2000抵3000，5000千抵7000送海康科技监控一个（我们是智能装饰，全房可以用手机控制电源）】",
+                "id": "243",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/1ecd2b9c-6fe6-46cf-a94a-8eeb42378394.jpg",
+                "title": "洪辉装饰（罗阳）",
+                "lat": "23.150293890546788",
+                "createDate": "2016-07-11"
+            },
+            {
+                "address": "惠州市博罗县商业东街矮岗路68-70号",
+                "distance": "97.0",
+                "phone": "07526268389",
+                "log": "114.29408998507168",
+                "toPhone": "13824225758",
+                "companyName": "春满人间装饰（罗阳）",
+                "shortDesc": "【生活一家会员专享：装修9.5折优惠】\r\n春满人间装饰有限公司：一心一意缔造和谐人居空间，我们一直高举着：“团结拼搏开拓创新务实奉献”的大旗，向着自己宏伟远大的目标前进着，我们尊重每一位员工的个性与特长，\r\n每一个智慧的足迹，在这里都放射着耀眼的光华，这里是创新者的殿堂，这里是装饰文化不断革命的前沿阵地。我们坚信：企业文化能刷新企业的体制和机制，能创造惊人的辉煌。",
+                "id": "242",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/1b87259a-a6e3-413c-9084-facbadb38238.jpg",
+                "title": "春满人间装饰（罗阳）",
+                "lat": "23.166000824300433",
+                "createDate": "2016-07-11"
+            },
+            {
+                "address": "惠州市博罗县商业东街菲林格尔地板",
+                "distance": "97.2",
+                "phone": "15018635130",
+                "log": "114.29587984358866",
+                "toPhone": "",
+                "companyName": "菲林格尔地板（罗阳）",
+                "shortDesc": "【生活一家专享优惠9.5折】，德国进口耐磨纸在耐污染、耐灼烧、耐划痕、耐磨性等指标上都有较强的优势。而菲林格尔是一家全部产品耐磨层采用德国进口耐磨纸的公司。对耐磨性能起决定性影响的三氧化二铝分子精密均分布于表面纤维层中间，使地板耐磨性能更显优越。",
+                "id": "235",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/9/a46859ef-79fe-4735-9aa9-9d56a8a805d2.jpg",
+                "title": "菲林格尔地板（罗阳）",
+                "lat": "23.168580566807897",
+                "createDate": "2016-08-11"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇博罗县商业东街203号维美布艺",
+                "distance": "97.5",
+                "phone": "07526263326",
+                "log": "114.29878985489073",
+                "toPhone": "",
+                "companyName": "维美布艺（罗阳）",
+                "shortDesc": "【生活一家会员专享：6.8折优惠】",
+                "id": "305",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/18/9d53e24c-d497-4033-ac24-776f6de37526.jpg",
+                "title": "维美布艺（罗阳）",
+                "lat": "23.171430116579028",
+                "createDate": "2016-07-18"
+            },
+            {
+                "address": "博罗县罗阳镇商业东街华桂园一楼兰舍硅藻泥",
+                "distance": "97.8",
+                "phone": "07526388080",
+                "log": "114.3019102555609",
+                "toPhone": "",
+                "companyName": "兰舍硅藻泥（罗阳）",
+                "shortDesc": "【生活一家会员专享：8.5折优惠】兰舍硅藻新材料有限公司成立于2009年，总部位于风景如画的卡伦湖畔，占地70000平方米，是集研发、培训、办公、生产为一体的现代化花园工厂。公司在长白山拥有自己的硅藻土矿山以及遍布全国的销售网络。兰舍是中国建筑材料联合会生态环境建材分会副理事长单位。",
+                "id": "189",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/5/9a43549e-62eb-4294-a179-441a395ae49e.jpg",
+                "title": "兰舍硅藻泥（罗阳）",
+                "lat": "23.17243969155925",
+                "createDate": "2016-07-06"
+            },
+            {
+                "address": "惠州博罗县罗阳镇商业东街 华桂园大门旁易天装饰",
+                "distance": "97.9",
+                "phone": "07526221222",
+                "log": "114.30226982219156",
+                "toPhone": "",
+                "companyName": "易天装饰（罗阳）",
+                "shortDesc": "【生活一家会员专享：装修9折，户外广告也有做电梯广告9折】 主要经营“装修 瓷砖 地板”等产品。公司尊崇“踏实、拼搏、责任的企业精神，并以诚信、共赢、开创经营理念，创造良好的企业环境，以全新的管理模式，完善的技术，周到的服务，卓越的品质为生存根本，我们始终坚持用户至上 用心服务于客户，坚持用自己的服务去打动客户。",
+                "id": "183",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/4/e0ca4f18-2f3f-4503-80eb-4d4bcadee639.jpg",
+                "title": "易天装饰（罗阳）",
+                "lat": "23.173149841854258",
+                "createDate": "2016-07-05"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇华桂园华康楼1-2门店罗蔓艺术墙布",
+                "distance": "97.9",
+                "phone": "07526212928",
+                "log": "114.30233993479513",
+                "toPhone": "13316397168",
+                "companyName": "罗蔓艺术墙布（罗阳）",
+                "shortDesc": "【生活一家会员专享：6折优惠】罗蔓艺术墙布：专业承接墙布墙纸等软装工程，大品牌！效果好！品质好！",
+                "id": "244",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/b5bd9e65-e386-43c1-a8fc-e49a6163474c.jpg",
+                "title": "罗蔓艺术墙布（罗阳）",
+                "lat": "23.17304970179923",
+                "createDate": "2016-07-11"
+            },
+            {
+                "address": "博罗县商业东街公园路华桂园华兴楼6-11号门店",
+                "distance": "97.9",
+                "phone": "07526323899",
+                "log": "114.30233993479513",
+                "toPhone": "",
+                "companyName": "如一·家品家具定制（博罗）",
+                "shortDesc": "【生活一家会员专享：消费享商家优惠】\r\n如一，您的专属设计！\r\n主营.：厨电、净水器、热水器、软硬装设计；石材背景、吊顶、橱柜、衣柜、酒柜定制。\r\n",
+                "id": "747",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/14/18b647e4-8f05-4107-8179-251886e1bc56.jpg",
+                "title": "如一·家品家具定制（博罗）",
+                "lat": "23.17304970179923",
+                "createDate": "2016-09-19"
+            },
+            {
+                "address": "惠州市博罗县商业东街金源建材",
+                "distance": "98.3",
+                "phone": "07526322233",
+                "log": "114.30678034758996",
+                "toPhone": "13669568010",
+                "companyName": "金源建材-威尔斯陶瓷（罗阳）",
+                "shortDesc": "【生活一家会员专享：6.5折优惠】\r\n主营：卫浴、陶瓷、灯饰等建材",
+                "id": "640",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/15/04ffb9fc-68e9-4663-a213-0c70e76396d2.jpg",
+                "title": "金源建材-威尔斯陶瓷（罗阳）",
+                "lat": "23.17360950114746",
+                "createDate": "2016-08-15"
+            },
+            {
+                "address": "惠州市仲恺高新区和畅五路金宝城市佳园1号商住楼1单元13层01号房，妙夫人生物科技有限公司",
+                "distance": "104.7",
+                "phone": " 13516668771",
+                "log": "114.35569289145123",
+                "toPhone": "",
+                "companyName": "妙夫人生物科技有限公司（仲恺）",
+                "shortDesc": "【生活一家会员专享：8.8折优惠】\r\n妙夫人：空气污染治理专家（治理范围：居家、车辆、办公室、厂房、学校等）",
+                "id": "1003",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/8/cf4d2c02-e4b5-40eb-bc3b-24c9a467be24.jpg",
+                "title": "妙夫人生物科技有限公司（仲恺）",
+                "lat": "23.02203010522694",
+                "createDate": "2016-12-10"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 7,
+        "totalRecord": 61,
+        "updateTime": ""
+    },
+    "status": "0"
+}

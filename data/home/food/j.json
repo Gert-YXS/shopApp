@@ -1,0 +1,53 @@
+{
+    "msg": "",
+    "param": {
+        "tagList": {},
+        "parentTagList": [],
+        "advertList": [
+            {
+                "id": "8",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/18/d41e65b1-004e-4531-b064-69a3cc5dc2ef.jpg",
+                "title": "西藏那曲虫草",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/webappinfo.action?id=951",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "14",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/26/01e734a1-ff8f-42d5-b3cf-e891d8d7e853.jpg",
+                "title": "奇华月饼 厂价直销",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%A5%87%E5%8D%8E",
+                "createDate": "2016-01-07"
+            },
+            {
+                "id": "15",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/23/6b7d96db-6429-4cca-a5f7-ace6609c46ea.jpg",
+                "title": "农家散养土鸡蛋",
+                "url": "http://www.gdshyj.com/shop/webapp/index/food/shenghuoshipinganddetail.action#shenghuoshiping=1105",
+                "createDate": "2016-01-07"
+            }
+        ]
+    },
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "198.0",
+                "salesPrice": "158.0",
+                "sysTime": "2017-02-22 15:35:44",
+                "id": "1263",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/26/c3359191-587f-48d9-874e-4c98d72645c1.jpg",
+                "title": "龙门特产 野生花菇 松草 茶树菇 普通花菇 竹笋 野生灵芝 冬菇 冬糖 灵芝孢子粉 木耳 野生鸡骨草 野生五指毛桃",
+                "content": "<div style=\"text-align: center;\">\r\n\t<span style=\"color:#008080;\"><strong><span style=\"font-size:22px;\">龙门特产<br />\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/26/6f5dcadb-516f-4335-805b-53ab66d0bd44.jpg\" /></span></strong></span><br />\r\n\t&nbsp;</div>\r\n",
+                "createDate": "2016-10-26"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 1,
+        "totalRecord": 1,
+        "updateTime": ""
+    },
+    "status": 0
+}

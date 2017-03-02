@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.35246&lat=23.180516&categoryId=188",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "惠州市仲恺区风华丽都北门107号铺",
+                "distance": "100.7",
+                "phone": "15220673797",
+                "log": "114.31030998624334",
+                "toPhone": "",
+                "companyName": "裕濠地产（仲恺）",
+                "shortDesc": "【生活一家会员专享：中介费9.8折优惠】",
+                "id": "453",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/28/5a289003-f5c8-4815-bab3-6e58838580b5.jpg",
+                "title": "裕濠地产（仲恺）",
+                "lat": "22.998680004489376",
+                "createDate": "2016-07-28"
+            },
+            {
+                "address": "惠州市紫西岭3巷18号102商铺（龙船街）",
+                "distance": "108.9",
+                "phone": "15766878134",
+                "log": "114.40562214263987",
+                "toPhone": "",
+                "companyName": " 鑫海川地产（旗舰店）",
+                "shortDesc": "【生活一家会员专享：1.租房8.8折优惠，新房免佣金；2.会员优选房屋，买房成交送人头马XO-1.4斤】",
+                "id": "1048",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/10/ee2a6d98-0bef-40a5-bd1b-aa31708451f6.jpg",
+                "title": " 鑫海川地产（旗舰店）",
+                "lat": "23.08483740530092",
+                "createDate": "2017-01-10"
+            },
+            {
+                "address": "江北东江二路二号富力国际中心16F",
+                "distance": "109.3",
+                "phone": "0752-5318999",
+                "log": "114.41038908574053",
+                "toPhone": "",
+                "companyName": "惠州方直集团有限公司",
+                "shortDesc": "方直集团初创于1998年，前身为广东方直投资有限公司，2010年正式更名为“广东方直集团有限公司”。一直以来，方直坚持以精益求精与不断创新的卓越品质，为珠三角区域乃至全国的城市居民，实现生活理想，致力于成为中国最受尊崇的高品位生活价值领航者。",
+                "id": "47",
+                "pic": "http://www.gdshyj.com/shoppic/2016/5/9/1b9f3269-b7e9-480a-8a0f-cd1e6580e5fe.jpg",
+                "title": "惠州方直集团有限公司",
+                "lat": "23.10118038120604",
+                "createDate": "2016-05-18"
+            },
+            {
+                "address": " 惠州市惠城区麦地东一路20-12",
+                "distance": "109.6",
+                "phone": "13431890147",
+                "log": "114.41027967584512",
+                "toPhone": "",
+                "companyName": "家家顺房产（麦地）",
+                "shortDesc": "【生活一家会员专享：成交送礼品】\r\n\r\n家家顺集团成立于2008年5月，总部位于深圳，是全国规模最大的房地产经纪企业之一。曾获“中国最具生命力百强企业”、“全国最秀房地产经纪机构”、“中国十大名牌中介机构”等多项殊荣。 家家顺集团成立两年多以来，以房地产流通为核心，打通房地产开发、按揭、担保、酒店、物业管理、固定资产投资与理财等房地产产业纵深服务链。通过锐意拼搏和不断进取，业务范围稳步拓展，遍及深圳、广州、中山、江门、东莞、惠州、长沙等几十个城市。",
+                "id": "651",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/22/db3280ec-ad2d-4647-bff6-383dbc02cecc.png",
+                "title": "家家顺房产（麦地）",
+                "lat": "23.064670637782957",
+                "createDate": "2016-08-22"
+            },
+            {
+                "address": "麦地路60号隆生商业广场隆生",
+                "distance": "109.8",
+                "phone": "0752-2288998",
+                "log": "114.4131799030833",
+                "toPhone": "",
+                "companyName": "惠州隆生企业集团有限公司",
+                "shortDesc": "广东隆生企业投资有限公司（以下简称“隆生企业”）成立于1988年，是惠州市一家以实业投资为基础、房地产开发和市政建设为主导、多元化经营的民营综合性企业。有自己的隆生物业管理。 ",
+                "id": "46",
+                "pic": "http://www.gdshyj.com/shoppic/2016/5/9/e71f7e79-2b4d-49c5-90d2-3a3ea859b073.jpg",
+                "title": "惠州隆生企业集团有限公司",
+                "lat": "23.074510252437687",
+                "createDate": "2016-05-18"
+            },
+            {
+                "address": "惠州市惠城区虾岗一路2号,江南新村小区斜对面吴隆地产",
+                "distance": "110.5",
+                "phone": "15018680376 ",
+                "log": "114.42024029044475",
+                "toPhone": "",
+                "companyName": "昊隆地产（河南岸）",
+                "shortDesc": "【生活一家会员专享：联系商家真诚服务，成交送礼品】昊隆地房产有限公司是一家集房地产房屋买卖、租赁、权证办理、按揭贷款、商铺租售、写字楼租售、融资担保等于一体的房产中介",
+                "id": "398",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/26/4f9e3288-19f5-4f1c-b3a8-c0bd6e6509d5.png",
+                "title": "昊隆地产（河南岸）",
+                "lat": "23.079309684274804",
+                "createDate": "2016-08-11"
+            },
+            {
+                "address": "惠城区河南岸一德商场A栋1105铺",
+                "distance": "110.5",
+                "phone": "13059553700",
+                "log": "114.41996975639347",
+                "toPhone": "",
+                "companyName": "方信地产（河南岸）",
+                "shortDesc": "【生活一家会员专享：成交送礼品】",
+                "id": "662",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/24/c7f759cf-69a2-48a2-a7b5-46a0a82efd6c.png",
+                "title": "方信地产（河南岸）",
+                "lat": "23.075020422860497",
+                "createDate": "2016-08-24"
+            },
+            {
+                "address": "惠州市江北新湖一路63号伟豪都市印记名苑128号铺",
+                "distance": "110.5",
+                "phone": "18318369084",
+                "log": "114.42399475000538",
+                "toPhone": "",
+                "companyName": "天泽地产（江北）",
+                "shortDesc": "【生活一家会员专享：购置二手房佣金0.98折优惠，购置一手房免佣金】\r\n主营：一手、二手房源",
+                "id": "588",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/5/4f460f01-3201-43da-acf5-0e070337aa68.jpg",
+                "title": "天泽地产（江北）",
+                "lat": "23.11954894332857",
+                "createDate": "2016-08-05"
+            },
+            {
+                "address": "惠州市惠城区渡船头一路14,锦诚地产",
+                "distance": "110.7",
+                "phone": "15217579017",
+                "log": "114.42208063412504",
+                "toPhone": "",
+                "companyName": "锦诚地产（河南岸）",
+                "shortDesc": "【生活一家会员专享：成交送旅游】",
+                "id": "461",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/29/a0103167-abe5-4902-820e-a4abe648a4cb.png",
+                "title": "锦诚地产（河南岸）",
+                "lat": "23.07910751439977",
+                "createDate": "2016-08-11"
+            },
+            {
+                "address": "广东省惠州市惠城区银岭路三横街13号",
+                "distance": "110.9",
+                "phone": "13824239804 ",
+                "log": "114.42288002443401",
+                "toPhone": "",
+                "companyName": "旭辉房地产（河南岸）",
+                "shortDesc": "【生活一家会员专享： 优惠免费看房子,中介费打8折】",
+                "id": "946",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/3/16a0ad77-f88a-43f6-8996-e87cfd0216b6.jpg",
+                "title": "旭辉房地产（河南岸）",
+                "lat": "23.069900180265325",
+                "createDate": "2016-11-03"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 4,
+        "totalRecord": 38,
+        "updateTime": ""
+    },
+    "status": "0"
+}

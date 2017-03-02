@@ -1,0 +1,152 @@
+{
+    "msg": "",
+    "param": {
+        "tagList": {},
+        "parentTagList": [],
+        "advertList": [
+            {
+                "id": "8",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/18/d41e65b1-004e-4531-b064-69a3cc5dc2ef.jpg",
+                "title": "西藏那曲虫草",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/webappinfo.action?id=951",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "14",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/26/01e734a1-ff8f-42d5-b3cf-e891d8d7e853.jpg",
+                "title": "奇华月饼 厂价直销",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%A5%87%E5%8D%8E",
+                "createDate": "2016-01-07"
+            },
+            {
+                "id": "15",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/23/6b7d96db-6429-4cca-a5f7-ace6609c46ea.jpg",
+                "title": "农家散养土鸡蛋",
+                "url": "http://www.gdshyj.com/shop/webapp/index/food/shenghuoshipinganddetail.action#shenghuoshiping=1105",
+                "createDate": "2016-01-07"
+            }
+        ]
+    },
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "520.0",
+                "salesPrice": "298.0",
+                "sysTime": "2017-02-22 15:32:53",
+                "id": "1600",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/21/ddd34dff-6852-473e-8021-76ccdf11feef.jpg",
+                "title": "古度 梅江一号柑普 礼盒包装 普洱茶熟茶300g",
+                "content": "<div style=\"text-align: center;\">\r\n\t<strong style=\"font-size: 13.3333px; color: rgb(0, 0, 128); font-family: 'Microsoft YaHei', Helvetica, Tahoma, Arial, sans-serif;\"><span style=\"font-size: 22px;\">厂价直供&middot;绝对超值</span></strong><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/21/77988db9-9301-4906-97f8-9f6a76524c3e.jpg\" /></div>\r\n",
+                "createDate": "2017-02-21"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "198.0",
+                "salesPrice": "128.0",
+                "sysTime": "2017-02-22 15:32:53",
+                "id": "1562",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/6/f2633fd4-54eb-42a6-8bfd-47f562216976.jpg",
+                "title": "福建安溪清香铁观音 竹韵铁观音 500g 礼盒装",
+                "content": "<div>\r\n\t<span style=\"font-size: 16px;\">品名：福建安溪清香铁观音</span></div>\r\n<div style=\"font-size: 13.3333px;\">\r\n\t<span style=\"font-size: 16px;\">年份：2016年秋茶</span></div>\r\n<div style=\"font-size: 13.3333px;\">\r\n\t<span style=\"font-size: 16px;\">工艺：半发酵乌龙茶</span></div>\r\n<div style=\"font-size: 13.3333px;\">\r\n\t<span style=\"font-size: 16px;\">原料：正秋安溪铁观音</span></div>\r\n<div style=\"font-size: 13.3333px;\">\r\n\t<span style=\"font-size: 16px;\">规格：500克/盒</span></div>\r\n<div style=\"font-size: 13.3333px; text-align: center;\">\r\n\t<span style=\"font-size: 16px;\">特色：铁观音是乌龙茶的极品，其品质特征是：茶条卷曲，肥壮圆结，沉重匀整，色泽砂绿，整体形状似蜻蜓头、螺旋体、青蛙腿。冲泡后汤色金黄浓艳似琥珀，有天然馥郁的兰花香，滋味醇厚甘鲜，俗称有&ldquo;音韵&rdquo;。<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/9/c9a5e0df-bf79-46f2-9b54-6edae36ff8d2.jpg\" /></span></div>\r\n",
+                "createDate": "2017-02-06"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "340.0",
+                "salesPrice": "240.0",
+                "sysTime": "2017-02-22 15:32:53",
+                "id": "1501",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/5/d18706bc-2b58-4c4d-bb36-b2be2b14bba1.jpg",
+                "title": "新会云尚柑品 新会二红柑&陈勐海普洱熟茶325克",
+                "content": "<div style=\"text-align: center;\">\r\n\t<span style=\"color:#000080;\"><strong><span style=\"font-size:24px;\">购买即返30元红包</span></strong></span><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/5/d09a63ec-7114-4b76-9443-0ad97bb13b34.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/5/a576048f-43cd-497d-8a75-0727f2d904dc.jpg\" /></div>\r\n",
+                "createDate": "2017-01-05"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "268.0",
+                "salesPrice": "268.0",
+                "sysTime": "2017-02-22 15:32:53",
+                "id": "1484",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/28/11c1e641-1b1d-4f24-a265-d9e6fb686d6e.jpg",
+                "title": "凸出牌 绿水安溪铁观音（浓香型）500克/盒",
+                "content": "<div style=\"text-align: center;\">\r\n\t<span style=\"font-size:14px;\"><span style=\"font-size:18px;\"><strong><span style=\"color:#0000ff;\">全国统一价268元<br />\r\n\t下单返30元红包</span></strong></span></span><br />\r\n\t&nbsp;</div>\r\n<div>\r\n\t<span style=\"font-size:14px;\">品名：绿水安溪铁观音（浓香型）</span></div>\r\n<div>\r\n\t<span style=\"font-size:14px;\">年份：2016年</span></div>\r\n<div>\r\n\t<span style=\"font-size:14px;\">工艺：碳焙</span></div>\r\n<div>\r\n\t<span style=\"font-size:14px;\">原料：福建安溪铁观音</span></div>\r\n<div>\r\n\t<span style=\"font-size:14px;\">等级：一级</span></div>\r\n<div>\r\n\t<span style=\"font-size:14px;\">规格：500克/盒，8盒/件</span></div>\r\n<div>\r\n\t<span style=\"font-size:14px;\">特色:以传统工艺&ldquo;茶为君，火为臣&rdquo;制作的铁观音茶叶，使用百年独特的烘焙方法，温火慢烘，湿风快速冷却，产品&ldquo;醇、厚、甘、润&rdquo;，条</span><span style=\"font-size: 14px;\">型肥壮紧结、色泽乌润、香气纯正、带甜花香或蜜香、粟香，汤色深金黄色或橙黄色，滋味特别醇厚甘滑，音韵显现，叶底带有余香，可经多次冲泡。茶性温和止渴生津，温胃健脾。</span><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/28/e6066f88-87df-4767-8ae3-0b12742b8641.jpg\" style=\"font-size: 12px;\" /></div>\r\n",
+                "createDate": "2016-12-28"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "480.0",
+                "salesPrice": "399.0",
+                "sysTime": "2017-02-22 15:32:53",
+                "id": "1479",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/27/d08a7249-a9f8-4d84-83a3-e33e985cbcc2.jpg",
+                "title": "小青柑清香型 八方茶园2016新会正宗柑普茶 陈皮普洱茶320克",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/27/182eab23-e30c-4d09-b0f1-30132fec8cde.jpg\" /></div>\r\n",
+                "createDate": "2016-12-27"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "208.0",
+                "salesPrice": "168.0",
+                "sysTime": "2017-02-22 15:32:53",
+                "id": "1358",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/2/2f1dae1e-71db-40be-843b-c6aa62ef0ac2.jpg",
+                "title": "农绿鲜黄秋葵养生茶礼盒装 果籽茶",
+                "content": "<div style=\"text-align: center;\">\r\n\t<strong><span style=\"color:#008080;\"><span style=\"font-size:20px;\">送秋葵汤料一份</span></span><br />\r\n\t<span style=\"color:#ff0000;\"><span style=\"font-size:20px;\">特价活动到12月31日截止</span></span><br />\r\n\t<span style=\"color:#008080;\"><span style=\"font-size:20px;\"><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/6/60c53da7-4f38-4a9f-b37c-8660d25eab4b.jpg\" /></span></span><br />\r\n\t<span style=\"color:#8b4513;\"><span style=\"font-size:20px;\">一盒25包，一套两盒，一包8克</span></span></strong><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/2/94e95034-79da-4751-b13c-80f67c0939f3.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/6/6d720396-38c1-47a1-a0e3-5ac827bee33d.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/6/ed6fa6d1-8027-4acd-946e-a3b3d631311f.jpg\" /></div>\r\n",
+                "createDate": "2016-12-07"
+            },
+            {
+                "salesCount": "100",
+                "marketPrice": "230.0",
+                "salesPrice": "200.0",
+                "sysTime": "2017-02-22 15:32:53",
+                "id": "1237",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/15/55c2a81a-0135-4c0f-9113-8f90cac56385.jpg",
+                "title": "仙人迹山茶 ",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/15/b25216ec-b319-42ac-bafb-8c0c3e772e5f.jpg\" /></div>\r\n",
+                "createDate": "2016-10-15"
+            },
+            {
+                "salesCount": "493",
+                "marketPrice": "339.0",
+                "salesPrice": "266.0",
+                "sysTime": "2017-02-22 15:32:53",
+                "id": "944",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/22/a3188ca2-abaf-47de-b025-e38c09f7c110.jpg",
+                "title": "云南高山老古树野生红茶250g*2盒",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/fca70036-f2d5-4b67-9942-7f88e690dd33.jpg\" /><br />\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/6dabe398-41d3-42a8-b9e6-eae0b8cc1ca1.jpg\" /><br />\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/ee82472a-b853-48b3-929a-74d961cfb7e9.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/fec64aca-1ada-4db5-aee5-7f14812be7ab.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/436b3214-dce7-4076-b433-baf5a6447473.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/8cb44454-25d1-4b50-b286-46c31359d87d.gif\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/9c7d471c-1f0d-49aa-b663-f06c27ab98cf.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/ae26d547-a82b-4cbd-8d97-6e81edd27044.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/24b08755-1ec4-49fe-8e1e-3918f9f74e94.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/bd453986-daa4-4ed0-9e49-e979a738a5d4.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/02f66727-da7d-4b51-8106-5a522647c9f5.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/2fc745a1-acbe-4efe-9160-86eef04724d9.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/828673d1-7990-468c-945e-0a24dc79534c.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/715abeaf-2bb1-4b8b-95e5-70fdb1692959.gif\" /><br />\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/6/29/21f2d548-2f28-414f-a327-a4b7ebbba252.jpg\" /></div>\r\n",
+                "createDate": "2016-09-22"
+            },
+            {
+                "salesCount": "498",
+                "marketPrice": "288.0",
+                "salesPrice": "200.0",
+                "sysTime": "2017-02-22 15:32:53",
+                "id": "996",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/24/5fd17189-042f-4e1f-884f-760031d064cf.jpg",
+                "title": "凤凰单枞 香飘茗茶 250g 浓香型",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/91a421ce-78e9-45bc-a7c2-fb9fbc6edac1.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/643a5f08-c0ff-48c4-b0c1-7bbdbee217cb.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/5cc0e01c-d769-46db-8ef0-837bcb0d261f.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/12cc3edc-9536-45a9-aae0-ca7fa6dc14a2.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/ec83c4f2-53ba-4e02-98ac-92f617d471bf.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/fd2058e0-6acd-4ad7-8396-d89da3963f0c.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/4443ed28-1f9d-4959-9bd4-30e6743658fa.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/2bf8862b-b6da-4d78-ad12-fde726cae744.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/08a1b9aa-2137-4230-b09d-34c47d5c702e.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/f2d30127-1691-4baa-aa90-c2d3f0eb2b2d.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/6c7d90b8-02b4-43e1-aed6-5363b448fbcc.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/4db1a837-41d3-4d97-9373-d3899827de4d.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/25/bb645bd9-6bd5-4f41-8925-ba3c8255afda.jpg\" /></div>\r\n",
+                "createDate": "2016-09-20"
+            },
+            {
+                "salesCount": "496",
+                "marketPrice": "65.0",
+                "salesPrice": "45.0",
+                "sysTime": "2017-02-22 15:32:53",
+                "id": "989",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/22/ac31524c-a303-4a7b-a134-54930a2d83de.jpg",
+                "title": "八乡绿茶一斤装 清明前春茶 梅州丰顺八乡高山茶",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/22/2cdc7353-4806-4a61-8a94-c32d4610e093.png\" /><span style=\"color:#ff0000;\"><strong><span style=\"font-size:20px;\">八乡绿茶500g/包</span></strong></span><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/22/c84266d3-54c7-4f3d-8b69-9be266464718.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/25/13da762d-ab01-49e2-8e33-023711e123ff.jpg\" /></div>\r\n",
+                "createDate": "2016-09-20"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 5,
+        "totalRecord": 41,
+        "updateTime": ""
+    },
+    "status": 0
+}

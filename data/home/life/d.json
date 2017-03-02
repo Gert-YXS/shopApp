@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=259",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "",
+                "distance": "",
+                "phone": "95511",
+                "log": "",
+                "toPhone": "",
+                "companyName": "中国平安",
+                "shortDesc": "中国平安保险（集团）股份有限公司（以下简称“中国平安”，“公司”，“集团”）于1988年诞生于深圳蛇口，是中国第一家股份制保险企业，至今已发展成为融保险、银行、投资三大主营业务为一体、核心金融与互联网金融业务并行发展的个人金融生活服务集团之一。公司为香港联合交易所主板及上海证券交易所两地上市公司，股票代码分别为2318和601318。",
+                "id": "52",
+                "pic": "http://www.gdshyj.com/shoppic/2016/5/20/df085f1a-e83b-429d-8b9e-c38019d0ccf3.jpg",
+                "title": "中国平安银行、保险",
+                "lat": "",
+                "createDate": "2016-05-20"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇商业东街205号",
+                "distance": "97.5",
+                "phone": "18026627311",
+                "log": "114.29888981710332",
+                "toPhone": "",
+                "companyName": "小牛普惠（博罗）",
+                "shortDesc": "经营范围，工薪贷，生意贷，精英贷。二十岁即可申请，发现金本地人可申请。",
+                "id": "690",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/30/cbbfc7c4-b15e-47e1-b9b0-9a45b8b9fff2.jpg",
+                "title": "小牛普惠（博罗）",
+                "lat": "23.171450214873943",
+                "createDate": "2016-08-30"
+            },
+            {
+                "address": "广东省惠州市惠城区江北东江二路二号富力国际中心1708",
+                "distance": "109.2",
+                "phone": "13421657924",
+                "log": "114.41038808850337",
+                "toPhone": "",
+                "companyName": "盛启实业（江北）",
+                "shortDesc": "公司产品:车贷，房贷，信用贷款\r\n1、全国车\r\n2、惠州本地地皮房子\r\n3、不看征信，不看流水，当天放款\r\n4、额度高，速度快，当天放款\r\n财富热线13421657924\r\n",
+                "id": "742",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/8/8b87946f-1807-4247-8bc6-b45590de7d60.jpg",
+                "title": "盛启实业（江北）",
+                "lat": "23.10118137279262",
+                "createDate": "2016-09-08"
+            },
+            {
+                "address": "惠城区云山西路20号双子星国际商务大厦B座21-23层",
+                "distance": "109.4",
+                "phone": "13928324636",
+                "log": "114.41288011104369",
+                "toPhone": "",
+                "companyName": "中国人民保险（江北）",
+                "shortDesc": "【生活一家会员专享：电话咨询 13928324636】\r\n\r\n中国人民保险公司（简称中国人保）于1949年10月20日经中华人民共和国政务院批准在北京西郊民巷108号挂牌成立。作为新中国保险事业的缔造者和开拓者，中国人保在60多年的改革发展征程中，始终秉承“人民保险、服务人民”的使命，积极履行企业社会责任，为服务经济社会发展和保障国计民生，提供了全方位、高质量的保险保障和服务，铸就了新中国民族保险业的辉煌。",
+                "id": "633",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/9/b1154356-1e28-4233-80ef-fed42d6ebaab.jpg",
+                "title": "中国人民保险（江北）",
+                "lat": "23.10808159832735",
+                "createDate": "2016-08-10"
+            },
+            {
+                "address": "惠州市惠城区江北文明一路中信广场A座908",
+                "distance": "109.6",
+                "phone": "15220639671",
+                "log": "114.41517950929595",
+                "toPhone": "",
+                "companyName": "普惠金融（江北）",
+                "shortDesc": "才薪贷，公务员，事业单位，国企，学校，医院等等，代发工资2000以上，上班满6个月以上即可申请。\r\n\r\n悦薪贷，上班满6个月以上，能提供社保或公积金即可申请。\r\n\r\n安薪贷，上班满6个月以上，能提供打卡发薪即可申请。\r\n\r\n乐薪贷，本地人或本地有房，上班满半年即可申请。",
+                "id": "700",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/31/5b5a874a-a072-4a8d-a9f1-3c592a0866dd.jpg",
+                "title": "普惠金融（江北）",
+                "lat": "23.116540576176142",
+                "createDate": "2016-08-31"
+            },
+            {
+                "address": "惠州市惠城区麦地风尚国际大厦12楼h座",
+                "distance": "109.7",
+                "phone": "15916416530",
+                "log": "114.4125998653976",
+                "toPhone": "",
+                "companyName": "惠州市致力信息咨询有限公司（麦地）",
+                "shortDesc": "【生活一家会员专享：银收宝免费送】\r\n州市致力信息咨询有限公司位于惠州市麦地路58号风尚国际大厦12H房交通便利。惠州市致力信息咨询有限公司本着“客户第一，诚信至上”的原则，欢迎国内外企业/公司/机构与本单位建立长期的合作关系。公司拥有一支较强的队伍并和国内多家单位强强联手。热诚欢迎各界朋友前来参观、考察、洽谈业务",
+                "id": "1011",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/13/6e58916b-60cb-45de-8d4f-1a3ccda033b1.jpg",
+                "title": "惠州市致力信息咨询有限公司（麦地）",
+                "lat": "23.075350537112893",
+                "createDate": "2016-12-13"
+            },
+            {
+                "address": "惠州市惠城区 麦地路 风尚国际大厦28A",
+                "distance": "109.7",
+                "phone": "13928313293",
+                "log": "114.4125998653976",
+                "toPhone": "",
+                "companyName": "众鑫经济（麦地）",
+                "shortDesc": "1、全款房，一押二押，可以贷\r\n2、按揭房，满3-6个月，可以贷\r\n3、保单，生效12个月，可以贷\r\n4、公积金，满三个月，可以贷\r\n5、全款车、按揭车，可以贷\r\n6、做生意，营业执照满一年+，可以贷\r\n额度2-100万，利息最低低至3厘1免抵押，免担保，低利息，放款快的金融信贷我们不放高利，我们只做银行的转运工！",
+                "id": "488",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/1/9e64d4ff-95b1-46f9-b832-efc09fd5999f.jpg",
+                "title": "众鑫经济（麦地）",
+                "lat": "23.075350537112893",
+                "createDate": "2016-09-20"
+            },
+            {
+                "address": "惠城区华贸天地一座1708",
+                "distance": "109.7",
+                "phone": "18718153196",
+                "log": "114.41552934493647",
+                "toPhone": "",
+                "companyName": "简易贷（江北）",
+                "shortDesc": "【生活一家会员专享：按揭车不押车贷款，广佛莞惠有房产(自建房或有证宅基地)可操作，不看征信、不看负责，手续简单当天放款，额度8-9成（最大可放大到1.5倍），新车落地也能做】\r\n\r\n简易贷坚持“小额、分散、抵押”的原则，竭诚为广大中小微企业和个人提供安全、便捷的投融资渠道，降低中小企业融资成本，提升个人财富管理水平。顺应全国互联网金融创新趋势，简易贷以车辆抵押、不动产抵押借贷为核心，创新性推出车易贷、房易贷、赎楼贷等一系列标准化理财产品，并与汇付天下携手，真正实现资金的第三方托管，把保障投资者资金安全落实到实处。\r\n",
+                "id": "687",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/29/7fb3d3ea-7b00-4f8f-9fca-7f39d3c2d718.jpg",
+                "title": "简易贷（江北）",
+                "lat": "23.10407992026537",
+                "createDate": "2016-08-29"
+            },
+            {
+                "address": "惠州市惠城区江北华贸大厦4楼",
+                "distance": "109.8",
+                "phone": "15768342193",
+                "log": "114.41582523360876",
+                "toPhone": "",
+                "companyName": "联合万丰投资（江北）",
+                "shortDesc": "惠州市联合万丰投资有限公司，主营 金融服务等。公司秉承\"顾客第一，勇攀高峰\"的经营理念，坚持\"诚实守信\"的原则为广大客户提供优质的服务",
+                "id": "403",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/26/d880ac08-c95c-4dd1-8636-9042a7c185f0.jpg",
+                "title": "联合万丰投资（江北）",
+                "lat": "23.103214924658594",
+                "createDate": "2016-07-26"
+            },
+            {
+                "address": "惠州市惠城区江北文昌一路华贸大厦1栋1005室",
+                "distance": "109.8",
+                "phone": "18218064657",
+                "log": "114.41582523360876",
+                "toPhone": "",
+                "companyName": "汇润集团（江北）",
+                "shortDesc": "公司产品：信贷，房贷，押证不押车贷款\r\n1、惠州-广州-东莞-深圳-河源-佛山 \r\n2、按揭车不押车\r\n3、好批，速度快，额度高、手续简单，当天放款\r\n4、不电审，不考察，不看征信，不看银行流水\r\n优惠热线：18218064657 廖园\r\n",
+                "id": "575",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/5/5da14d65-4500-44ce-be3e-7c4f0aefcf9f.jpg",
+                "title": "汇润集团（江北）",
+                "lat": "23.103214924658594",
+                "createDate": "2016-08-05"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 3,
+        "totalRecord": 25,
+        "updateTime": ""
+    },
+    "status": "0"
+}

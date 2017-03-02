@@ -1,0 +1,152 @@
+{
+    "msg": "",
+    "param": {
+        "tagList": {},
+        "parentTagList": [],
+        "advertList": [
+            {
+                "id": "8",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/18/d41e65b1-004e-4531-b064-69a3cc5dc2ef.jpg",
+                "title": "西藏那曲虫草",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/webappinfo.action?id=951",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "14",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/26/01e734a1-ff8f-42d5-b3cf-e891d8d7e853.jpg",
+                "title": "奇华月饼 厂价直销",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%A5%87%E5%8D%8E",
+                "createDate": "2016-01-07"
+            },
+            {
+                "id": "15",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/23/6b7d96db-6429-4cca-a5f7-ace6609c46ea.jpg",
+                "title": "农家散养土鸡蛋",
+                "url": "http://www.gdshyj.com/shop/webapp/index/food/shenghuoshipinganddetail.action#shenghuoshiping=1105",
+                "createDate": "2016-01-07"
+            }
+        ]
+    },
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "69.0",
+                "salesPrice": "56.0",
+                "sysTime": "2017-02-22 15:34:00",
+                "id": "1569",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/6/bbc0a4ec-4024-453b-a419-7f1cb09f75f8.jpg",
+                "title": "美赞臣奶粉 安婴妈妈A+孕妇及授乳妇女配方奶粉 300克(进口奶源)新包装",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/6/7caad172-4493-4189-b88c-c830a28ef4b0.jpg\" /></div>\r\n",
+                "createDate": "2017-02-15"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "279.0",
+                "salesPrice": "245.0",
+                "sysTime": "2017-02-22 15:34:00",
+                "id": "1590",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/15/7c6c3ff7-4624-43ff-b826-b2c932f2a870.jpg",
+                "title": "美赞臣奶粉 安婴儿A+婴儿配方奶粉 1段(0-6月龄婴儿适用) 900克罐装",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/15/2ec2b7a8-55be-4c65-ad48-7cef8f9c9111.jpg\" /></div>\r\n",
+                "createDate": "2017-02-15"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "138.0",
+                "salesPrice": "115.0",
+                "sysTime": "2017-02-22 15:34:00",
+                "id": "1589",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/15/426d11d7-64ae-445e-9cdc-76e66a322d34.jpg",
+                "title": "美赞臣奶粉  安婴儿A+婴儿配方奶粉 1段(0-6月龄婴儿适用) 400克罐装",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/15/cf2ed8b6-570f-4134-bfdf-316ffd0583d4.jpg\" /></div>\r\n",
+                "createDate": "2017-02-15"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "298.0",
+                "salesPrice": "266.0",
+                "sysTime": "2017-02-22 15:34:00",
+                "id": "1588",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/15/9abad4b8-72e7-410c-8baf-a6e3e7cf165f.jpg",
+                "title": "美赞臣奶粉 安婴儿A+荷兰版婴儿配方奶粉 1段(0-12月龄婴儿适用) 850克罐装 原装原罐荷兰进口",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/15/571a02f7-2cf5-4586-b2fb-d9826b8c453f.jpg\" /></div>\r\n",
+                "createDate": "2017-02-15"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "159.0",
+                "salesPrice": "132.0",
+                "sysTime": "2017-02-22 15:34:00",
+                "id": "1587",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/15/21ec147d-8498-44f3-9e56-a47a2a439c91.jpg",
+                "title": "美赞臣奶粉 安婴儿A+荷兰版婴儿配方奶粉 1段(0-12月龄婴儿适用) 400克罐装 原装原罐荷兰进口",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/15/9ea466a0-526c-496e-bded-c37e6aefb6ae.jpg\" /></div>\r\n",
+                "createDate": "2017-02-15"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "299.0",
+                "salesPrice": "263.0",
+                "sysTime": "2017-02-22 15:34:00",
+                "id": "1586",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/15/52dc6f9d-6a9e-474e-b152-30e929486d7e.jpg",
+                "title": "美赞臣奶粉 荷兰版 安婴宝A+ 2段（6-12月适用）850g（荷兰原装进口）",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/15/b9bfa52e-f405-4144-9da5-b36d703e6a60.jpg\" /></div>\r\n",
+                "createDate": "2017-02-15"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "269.0",
+                "salesPrice": "239.0",
+                "sysTime": "2017-02-22 15:34:00",
+                "id": "1585",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/15/0dc1c473-35f4-4986-9d12-47af7ba6abcf.jpg",
+                "title": "美赞臣奶粉 安儿宝A+荷兰版幼儿配方奶粉 3段(12-36月龄幼儿适用) 850克罐装 原装原罐荷兰进口",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/15/06f6d8d5-2238-49d6-aa79-e16f3e571e38.jpg\" /></div>\r\n",
+                "createDate": "2017-02-15"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "99.0",
+                "salesPrice": "71.0",
+                "sysTime": "2017-02-22 15:34:00",
+                "id": "1584",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/14/00fd3ac3-4478-403f-8f54-f7ec50843896.jpg",
+                "title": "美赞臣奶粉 安儿宝A+幼儿配方奶粉 3段(12-36月龄幼儿适用) 400克盒装",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/14/3f9b61d1-fd44-493e-b036-d480a8c8fe75.jpg\" /></div>\r\n",
+                "createDate": "2017-02-14"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "199.0",
+                "salesPrice": "178.0",
+                "sysTime": "2017-02-22 15:34:00",
+                "id": "1583",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/14/652779c8-c52f-46c1-a94b-96cedac209cd.jpg",
+                "title": "美赞臣奶粉 孕妇奶粉 安婴妈妈A+孕妇及授乳妇女配方奶粉 900克罐装",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/14/78732fd3-3362-4b16-af20-d9e7aebf1ac1.jpg\" /></div>\r\n",
+                "createDate": "2017-02-14"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "368.0",
+                "salesPrice": "288.0",
+                "sysTime": "2017-02-22 15:34:00",
+                "id": "1582",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/14/00780cea-e673-4d20-9e6b-88cbb6219a3c.jpg",
+                "title": "美赞臣奶粉 安婴儿A+婴儿配方奶粉 1段(0-6月龄婴儿适用) 1200克(400克*3袋)",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/2/14/0eb13b3a-d230-46dd-9be6-b6ef2ba00e04.jpg\" /></div>\r\n",
+                "createDate": "2017-02-14"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 5,
+        "totalRecord": 41,
+        "updateTime": ""
+    },
+    "status": 0
+}

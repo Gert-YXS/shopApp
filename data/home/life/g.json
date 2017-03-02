@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=263",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "惠州市博罗县桥东二路89号，博罗人民公园大门左侧",
+                "distance": "96.1",
+                "phone": "15118941322",
+                "log": "114.28546463406765",
+                "toPhone": "",
+                "companyName": "520静吧（博罗）",
+                "shortDesc": "【生活一家会员专享：消费享商家优惠】",
+                "id": "937",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/2/b4cbc8a8-25cd-4fe2-ba15-e70a58050fa8.png",
+                "title": "520静吧（博罗）",
+                "lat": "23.168161383500323",
+                "createDate": "2016-11-02"
+            },
+            {
+                "address": "广东省惠州市惠城区和畅五路，幻城清吧 ",
+                "distance": "104.4",
+                "phone": "13728276320 ",
+                "log": "114.35291939722164",
+                "toPhone": "",
+                "companyName": "幻城清吧 （仲恺）",
+                "shortDesc": "【生活一家会员专享：酒水享8折优惠】",
+                "id": "925",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/1/a783edae-01eb-4e33-bc73-c4799146ce89.jpg",
+                "title": "幻城清吧 （仲恺）",
+                "lat": "23.024327604753346",
+                "createDate": "2016-11-01"
+            },
+            {
+                "address": "惠州市下角东路埔前街润宇广场夜色城市酒吧",
+                "distance": "107.8",
+                "phone": "13413190735",
+                "log": "114.39649024512144",
+                "toPhone": "",
+                "companyName": "惠州夜色城市酒吧（下角）",
+                "shortDesc": "【生活一家会员专享：9.5折优惠】\r\n夜色服务：驻场歌手、DJ、夜色美食、夜色酒水，服务周到，音质劲爆，分贝噪音太高，喜欢各种嗨的赶紧来感受一下哦~",
+                "id": "53",
+                "pic": "http://www.gdshyj.com/shoppic/2016/5/9/8426130b-1090-4469-94bc-62288e45b439.jpg",
+                "title": "惠州夜色城市酒吧（下角）",
+                "lat": "23.10150004909472",
+                "createDate": "2016-07-06"
+            },
+            {
+                "address": "惠州市惠城区麦地路16号CLUB LV",
+                "distance": "108.6",
+                "phone": "13413076228",
+                "log": "114.4018396736919",
+                "toPhone": "",
+                "companyName": "惠州LV酒吧（麦地）LV CLUB",
+                "shortDesc": "【生活一家会员专享：所有啤酒10点半前买一送一】惠州LV酒吧：气氛很好,玩的很乐,现场DJ打碟很嗨,养眼美女还很多哦~",
+                "id": "184",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/5/e1f2ed82-8ce1-4204-baa7-a65b2de175e5.png",
+                "title": "惠州LV酒吧（麦地）LV CLUB",
+                "lat": "23.07521044111065",
+                "createDate": "2016-07-05"
+            },
+            {
+                "address": "惠城区麦兴路19号悦洲广场2层,匣子K-Box惠州店",
+                "distance": "109.3",
+                "phone": "13530099828",
+                "log": "114.40765999357951",
+                "toPhone": "",
+                "companyName": "匣子k-box连锁ktv（麦地）",
+                "shortDesc": "【生活一家会员专享：1.首次预订即可获得免费体验K房一间。2.后期预订可享受（星期二房费1折，平日房费3折，周末房费5折）3.免费布置生日房，会员生日当天可以赠送精美果盘一份/香槟一支】扫描二维码➕微信提前预订：赖总监13530099828\r\n",
+                "id": "703",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/2/eab584bc-569f-4f11-8999-b1b904874220.jpg",
+                "title": "匣子k-box连锁ktv（麦地）",
+                "lat": "23.071210898677748",
+                "createDate": "2016-09-02"
+            },
+            {
+                "address": "惠州市惠城区麦地南路麦地综合市场2楼，SHOW8",
+                "distance": "109.4",
+                "phone": "13553417989",
+                "log": "114.40769962050793",
+                "toPhone": "",
+                "companyName": "SHOW8BAR酒吧（麦地）",
+                "shortDesc": "【生活一家会员专享：折扣不定时优惠，送果盘小吃，联系人：吕东合，电话：13553417989】中国最快乐的酒吧：SHOW8BAR",
+                "id": "381",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/26/64702983-dedd-4133-bf2c-d282868b8fa8.jpg",
+                "title": "SHOW8BAR酒吧（麦地）",
+                "lat": "23.062231648994956",
+                "createDate": "2016-07-26"
+            },
+            {
+                "address": ":惠城区下埔西堤路滨江大厦11号楼一楼（靠近下埔小学后门）",
+                "distance": "109.7",
+                "phone": "13751589919",
+                "log": "114.41267941056876",
+                "toPhone": "",
+                "companyName": "佐域NEW LIFE酒吧（下埔）",
+                "shortDesc": "【生活一家会员专享：9.5折优惠】这里不算亮堂，没有太多霓虹灯闪烁，你可以来到这里，放下所有忙碌，跟着音乐哼哼。佐域是个有酒有故事的地方，你听说过吗，你到来过吗。如果没有，来坐坐吧。你会爱上它的闲静，它的舒心，和它的一切一切。",
+                "id": "108",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/3/f315bd5a-c2c9-4101-8dd9-76bb053649db.jpg",
+                "title": "佐域NEW LIFE酒吧（下埔）",
+                "lat": "23.083281784458332",
+                "createDate": "2016-07-13"
+            },
+            {
+                "address": "惠城区演达大道（曼哈顿广场一楼）热舞派对酒吧",
+                "distance": "109.9",
+                "phone": "13437641724",
+                "log": "114.41403963372498",
+                "toPhone": "",
+                "companyName": "热舞派对酒吧（惠州曼哈顿店）",
+                "shortDesc": "【生活一家会员专享：10点半前2打百威只需380元，两支百龄坛只需500元】免费WiFi，免费停车位！请提前预定哦~",
+                "id": "250",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/12/e992bc5d-a1b4-4ba8-ac86-658200a7546f.jpg",
+                "title": "热舞派对酒吧（惠州曼哈顿店）",
+                "lat": "23.07311221842671",
+                "createDate": "2016-07-12"
+            },
+            {
+                "address": "惠州市惠城区下埔二路26号E夜派对",
+                "distance": "109.9",
+                "phone": "13428069363",
+                "log": "114.41503475099007",
+                "toPhone": "",
+                "companyName": "E夜派对酒吧（南坛下埔）",
+                "shortDesc": "【生活一家会员专享：1.散台(十点前200元两打百威，一点后100元一打百威)；2.散台:百威300两打；3.卡座:百威380两打，600四打；4.全场:人头马880元两套,名仕1288元两套】\r\n抢台高压电13428069363",
+                "id": "636",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/12/8eb06745-f61e-4c1d-aee8-e1c023a27700.jpg",
+                "title": "E夜派对酒吧（南坛下埔）",
+                "lat": "23.0797676150564",
+                "createDate": "2016-08-12"
+            },
+            {
+                "address": "惠城区下埔滨江西堤路25-6号 ,泡末酒吧",
+                "distance": "110.0",
+                "phone": "0752–2162088",
+                "log": "114.41558960189825",
+                "toPhone": "13480557755",
+                "companyName": "泡末酒吧（滨江花园）",
+                "shortDesc": "【生活一家会员专享：1.全场8.8折优惠；2.易拉罐虎牌啤酒买2打送1打】\r\nPM·泡末CLUB",
+                "id": "1030",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/27/1f80b5c1-6ff1-47af-ab9f-f2bd9dac338c.jpg",
+                "title": "泡末酒吧（滨江花园）",
+                "lat": "23.082230263097312",
+                "createDate": "2016-12-27"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 2,
+        "totalRecord": 16,
+        "updateTime": ""
+    },
+    "status": "0"
+}

@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=383",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "惠州市惠城区江北三新北路丽格公寓停车场东门16栋",
+                "distance": "109.1",
+                "phone": "0752-2830017",
+                "log": "114.40996869443045",
+                "toPhone": "",
+                "companyName": "沣缘生活馆（江北）",
+                "shortDesc": "【生活一家会员专享：消费享9折优惠】",
+                "id": "473",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/29/3260877f-9f17-40e6-b691-283e35ad08ba.jpg",
+                "title": "沣缘生活馆（江北）",
+                "lat": "23.118169551254617",
+                "createDate": "2016-07-29"
+            },
+            {
+                "address": "惠州市惠城区麦地东一路1-2号，安福轩茶业",
+                "distance": "109.3",
+                "phone": "13809831077",
+                "log": "114.40710993974251",
+                "toPhone": "",
+                "companyName": "安福轩茗茶（麦地）",
+                "shortDesc": "【生活一家会员专享：8.5折优惠】\r\n茶叶质量上乘，货真价实",
+                "id": "991",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/2/5ae22fb7-7483-482a-961a-a65f4d118f49.jpg",
+                "title": "安福轩茗茶（麦地）",
+                "lat": "23.065020986037595",
+                "createDate": "2016-12-02"
+            },
+            {
+                "address": "惠州市桥东上板塘南面小区随缘茶馆",
+                "distance": "109.5",
+                "phone": "13531655551",
+                "log": "114.41176946570812",
+                "toPhone": "",
+                "companyName": "随缘茶馆（桥东南面小区）",
+                "shortDesc": "【生活一家会员专享：房间优惠8折】随缘茶馆：主营休闲、喝茶、娱乐",
+                "id": "301",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/18/d4da4d27-ae84-4551-9bd7-a3f7b064e2ef.jpg",
+                "title": "随缘茶馆（桥东南面小区）",
+                "lat": "23.08835009168125",
+                "createDate": "2016-07-18"
+            },
+            {
+                "address": "惠城区横江四路3号下铺数码街对面和盛興茗茶業",
+                "distance": "109.6",
+                "phone": "18665255588",
+                "log": "114.41139006050348",
+                "toPhone": "",
+                "companyName": "和盛興茗茶業（横江）",
+                "shortDesc": "【生活一家会员专享：茶叶八折优惠，名酒假一赔十，会员价格全市最低】凤凰单枞茗茶、东方红、宋种、乌岽、玉兰香、蜜兰香、杏仁香、贡香、芝兰、大乌叶、抽干茶、冰茶、普洱茶、红茶、大红袍、金骏眉、铁观音、绿茶、毛尖、名式名家手拉壶。以及各种名酒，品质保证！货真价实！",
+                "id": "120",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/5/f6be3bbf-8ebf-467c-8a86-a34c6e8a8d7d.jpg",
+                "title": "和盛興茗茶業（横江）",
+                "lat": "23.0792510368671",
+                "createDate": "2016-07-04"
+            },
+            {
+                "address": "惠州市惠城区麦地东二路鸿润花园C栋109号",
+                "distance": "109.6",
+                "phone": "07522563456",
+                "log": "114.40972318227941",
+                "toPhone": "",
+                "companyName": "茶缘阁（麦地）",
+                "shortDesc": "【生活一家会员专享：9折优惠】各种名茶、茶具、茶室、品茗",
+                "id": "155",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/11/dcb5df9a-0376-4ea0-8a98-df9c32c9d72c.jpg",
+                "title": "茶缘阁（麦地）",
+                "lat": "23.063179759733664",
+                "createDate": "2016-07-22"
+            },
+            {
+                "address": "惠州市花边南路茶博艺术城126-127号",
+                "distance": "109.6",
+                "phone": "0752-2213755",
+                "log": "114.4109398253318",
+                "toPhone": "",
+                "companyName": "众意茗茶（麦地）",
+                "shortDesc": "【生活一家会员专享：消费享7.8折优惠】\r\n\r\n主营产品：铁观音、红茶、绿茶、普洱茶、茶具等等",
+                "id": "567",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/4/2e6bd545-1b22-4928-b33c-9a56090a0639.png",
+                "title": "众意茗茶（麦地）",
+                "lat": "23.07257106815173",
+                "createDate": "2016-08-05"
+            },
+            {
+                "address": "惠城区西堤路北五街1-7",
+                "distance": "110.1",
+                "phone": "13542714299",
+                "log": "114.41707021818225",
+                "toPhone": "",
+                "companyName": "景德镇陶瓷艺术（下埔）",
+                "shortDesc": "【生活一家会员专享：全场6折】",
+                "id": "736",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/8/6617dc59-4878-484a-a852-459a575d8cc9.jpg",
+                "title": "景德镇陶瓷艺术（下埔）",
+                "lat": "23.081580160861744",
+                "createDate": "2016-09-08"
+            },
+            {
+                "address": "惠城区斑樟湖二横路一德商品展贸城一楼1075号（河南岸办事处对面）",
+                "distance": "110.4",
+                "phone": "15916359349",
+                "log": "114.41934955840063",
+                "toPhone": "",
+                "companyName": "金祥茶叶批发部（河南岸）",
+                "shortDesc": "【生活一家会员专享：消费享8.8折优惠】",
+                "id": "340",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/20/11109c98-9e74-41b3-912b-be3f0187d111.png",
+                "title": "金祥茶叶批发部（河南岸）",
+                "lat": "23.073980227596216",
+                "createDate": "2016-07-20"
+            },
+            {
+                "address": "惠城区斑樟湖二横街2号一德商贸城(一楼1046铺)",
+                "distance": "110.5",
+                "phone": "13680779049",
+                "log": "114.41951966965573",
+                "toPhone": "",
+                "companyName": "博雅轩（河南岸）",
+                "shortDesc": "【生活一家会员专享：消费享9折优惠】\r\n主营：翡翠白玉、古玉、古画、紫砂木雕、竹雕、寿山石等等。",
+                "id": "342",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/20/1d6db35a-7655-46b5-aa9b-bd16b7752e9d.jpg",
+                "title": "博雅轩（河南岸）",
+                "lat": "23.07459033022024",
+                "createDate": "2016-07-21"
+            },
+            {
+                "address": "惠城区斑樟湖二横街2号一德商贸城（一楼1107-1059）",
+                "distance": "110.5",
+                "phone": "13480518873",
+                "log": "114.41951966965573",
+                "toPhone": "",
+                "companyName": "古龙窑壶艺坊（河南岸）",
+                "shortDesc": "【生活一家会员专享：紫砂壶8折优惠】\r\n经营范围：宜兴紫砂、宜兴红茶",
+                "id": "345",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/20/541eb6c6-0e78-45a2-8d0e-7edf65bb6cdd.png",
+                "title": "古龙窑壶艺坊（河南岸）",
+                "lat": "23.07459033022024",
+                "createDate": "2016-07-21"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 2,
+        "totalRecord": 14,
+        "updateTime": ""
+    },
+    "status": "0"
+}

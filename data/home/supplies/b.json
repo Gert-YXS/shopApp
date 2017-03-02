@@ -1,0 +1,210 @@
+{
+    "list": {
+        "scrollImg": [
+            {
+                "id": "10",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/21/0ee58831-74d7-4e04-9b78-3fef9e21bd62.jpg",
+                "title": "先锋暖风机",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%85%88%E9%94%8B%E6%9A%96%E9%A3%8E%E6%9C%BA",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "32",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/7/4457b6be-21fd-4c16-a8c8-200633069944.jpg",
+                "title": "",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/info.action?id=1143",
+                "createDate": "2016-10-07"
+            },
+            {
+                "id": "19",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/4/756e198b-05f8-4335-8473-14a79733ec06.jpg",
+                "title": "飞科 带你走进科技的世界",
+                "url": "http://www.gdshyj.com/webapp/index/search_result.action?searchKey=%E9%A3%9E%E7%A7%91",
+                "createDate": "2016-02-20"
+            },
+            {
+                "id": "29",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/44bbf26c-d3c7-44a7-90f2-a4f5f9e2c045.jpg",
+                "title": "苏泊尔",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E8%8B%8F%E6%B3%8A%E5%B0%94",
+                "createDate": "2016-07-11"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "232",
+                "title": "小家电"
+            },
+            {
+                "id": "233",
+                "title": "大家电"
+            },
+            {
+                "id": "234",
+                "title": "手机数码"
+            },
+            {
+                "id": "336",
+                "title": "电脑办公"
+            },
+            {
+                "id": "337",
+                "title": "名表首饰"
+            },
+            {
+                "id": "365",
+                "title": "化妆品"
+            },
+            {
+                "id": "370",
+                "title": "服装"
+            },
+            {
+                "id": "371",
+                "title": "女装"
+            },
+            {
+                "id": "372",
+                "title": "母婴"
+            },
+            {
+                "id": "373",
+                "title": "鞋靴箱包"
+            },
+            {
+                "id": "374",
+                "title": "运动户外"
+            },
+            {
+                "id": "375",
+                "title": "汽车用品"
+            },
+            {
+                "id": "380",
+                "title": "日常用品"
+            },
+            {
+                "id": "395",
+                "title": "床上用品"
+            }
+        ],
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "5698.0",
+                "salesPrice": "3859.0",
+                "sysTime": "2017-02-21 16:44:10",
+                "id": "1561",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/21/5c6b7a0d-5c76-46df-92a3-308bb0482cf1.jpg",
+                "title": "松下洗衣机 XQG90-E9055 9公斤变频全自动滚筒洗衣机大容量",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/21/07a8c435-7d6d-4de1-82b3-46e838472988.jpg\" /></div>\r\n",
+                "createDate": "2017-02-20"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "4799.0",
+                "salesPrice": "3659.0",
+                "sysTime": "2017-02-21 16:44:10",
+                "id": "1559",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/21/798cb85a-967b-4073-a5c0-13f55fe1ac91.jpg",
+                "title": "松下洗衣机 XQG90-E9025  9KG变频滚筒洗衣机",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/21/707cea99-d8d7-4ee2-ac99-9fa11e078ec7.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/21/904f4060-01ea-4fda-806a-ff66ac2a283f.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/21/62327d4f-7aa3-4cef-9582-3759ab80e553.jpg\" /></div>\r\n",
+                "createDate": "2017-02-20"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "4399.0",
+                "salesPrice": "3259.0",
+                "sysTime": "2017-02-21 16:44:10",
+                "id": "1557",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/21/bccf0f4e-0783-4c8f-904f-60d566c38369.jpg",
+                "title": "松下洗衣机XQG80-E8325滚筒变频全自动洗衣机8kg家用洗衣机",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/21/4502598d-8c13-48e7-86c3-ed49e5440f30.jpg\" /></div>\r\n",
+                "createDate": "2017-02-20"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "3999.0",
+                "salesPrice": "3359.0",
+                "sysTime": "2017-02-21 16:44:10",
+                "id": "1556",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/21/346bf573-3118-485d-8617-4e3cb919fda6.jpg",
+                "title": "松下洗衣机 XQG80-E8225 8kg滚筒变频全自动",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/21/15f55937-e749-4a16-b54c-c41281a5b847.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/21/2919e3e8-5b40-44f9-84c2-8b836d22c806.jpg\" /></div>\r\n",
+                "createDate": "2017-02-20"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "3199.0",
+                "salesPrice": "2759.0",
+                "sysTime": "2017-02-21 16:44:10",
+                "id": "1553",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/20/8b13dd06-90c2-4f50-bced-e62a08b9025f.jpg",
+                "title": "松下洗衣机XQG80-E8122 8公斤滚筒洗衣机全自动家用",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/20/34ba45c2-be43-423d-a512-5f15a7d2dd6e.jpg\" /></div>\r\n",
+                "createDate": "2017-02-20"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "1699.0",
+                "salesPrice": "1369.0",
+                "sysTime": "2017-02-21 16:44:10",
+                "id": "1552",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/19/e4a1347b-2d35-4302-9d89-f05fc0f419f3.jpg",
+                "title": "松下洗衣机 XQB28-P200W儿童全自动洗衣机小洗衣机迷你家用",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/1bfac7f4-4f87-4a28-aebd-cfe413c1cfb7.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/3dca8fba-e640-45c9-a6f3-a7d3975ce9a6.jpg\" /></div>\r\n",
+                "createDate": "2017-02-20"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "1699.0",
+                "salesPrice": "1269.0",
+                "sysTime": "2017-02-21 16:44:10",
+                "id": "1551",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/19/a5855f6b-6a87-4451-a1fa-261e07704379.jpg",
+                "title": "松下洗衣机XQB65-TW6321  6.5公斤家用波轮洗衣机全自动大容量",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/6142b593-410f-4d39-9007-2c1e2eead344.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/2217c366-722a-4752-b13f-c263f6f8ff42.jpg\" /></div>\r\n",
+                "createDate": "2017-02-20"
+            },
+            {
+                "salesCount": "499",
+                "marketPrice": "1999.0",
+                "salesPrice": "1469.0",
+                "sysTime": "2017-02-21 16:44:10",
+                "id": "1550",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/19/7c57d277-0adc-4878-817f-f03e479b6aa8.jpg",
+                "title": "松下洗衣机 XQB75-Q7321 XQB75-TW7321全自动波轮洗衣机7.5KG家用",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/956212b0-2485-473f-a06f-c69f5cd6adc8.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/3124e67e-b447-4e1e-b780-0fabe19ac223.jpg\" /></div>\r\n",
+                "createDate": "2017-02-20"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "2698.0",
+                "salesPrice": "1969.0",
+                "sysTime": "2017-02-21 16:44:10",
+                "id": "1549",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/19/56f111c4-21c1-4a5d-80ac-519faaebe760.jpg",
+                "title": "松下洗衣机 XQB85-QA8122 大容量家用全自动波轮洗衣机8.5kg",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/470bfe66-56a8-4654-99f8-697024be1bfc.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/d8cc407d-7098-4945-b5ec-0798c65471ed.jpg\" /></div>\r\n",
+                "createDate": "2017-02-20"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "2698.0",
+                "salesPrice": "1959.0",
+                "sysTime": "2017-02-21 16:44:10",
+                "id": "1547",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/19/7afa12e0-18fe-437b-8c06-2276b273cf38.jpg",
+                "title": "松下洗衣机 XQB90-Q9041 9KG 波轮洗衣机 全自动大容量 家用",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/a937bb56-2d49-4800-8d1b-955c8abb45ee.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/cd41ea8e-c2ac-4609-b945-d357e34aaa64.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/19/1f73ebd7-4f35-498a-aeb0-e15500cb1c93.jpg\" /></div>\r\n",
+                "createDate": "2017-02-20"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 22,
+        "totalRecord": 211,
+        "updateTime": ""
+    },
+    "status": 0
+}

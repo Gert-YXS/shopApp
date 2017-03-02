@@ -1,0 +1,210 @@
+{
+    "list": {
+        "scrollImg": [
+            {
+                "id": "10",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/21/0ee58831-74d7-4e04-9b78-3fef9e21bd62.jpg",
+                "title": "先锋暖风机",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%85%88%E9%94%8B%E6%9A%96%E9%A3%8E%E6%9C%BA",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "32",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/7/4457b6be-21fd-4c16-a8c8-200633069944.jpg",
+                "title": "",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/info.action?id=1143",
+                "createDate": "2016-10-07"
+            },
+            {
+                "id": "19",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/4/756e198b-05f8-4335-8473-14a79733ec06.jpg",
+                "title": "飞科 带你走进科技的世界",
+                "url": "http://www.gdshyj.com/webapp/index/search_result.action?searchKey=%E9%A3%9E%E7%A7%91",
+                "createDate": "2016-02-20"
+            },
+            {
+                "id": "29",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/44bbf26c-d3c7-44a7-90f2-a4f5f9e2c045.jpg",
+                "title": "苏泊尔",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E8%8B%8F%E6%B3%8A%E5%B0%94",
+                "createDate": "2016-07-11"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "232",
+                "title": "小家电"
+            },
+            {
+                "id": "233",
+                "title": "大家电"
+            },
+            {
+                "id": "234",
+                "title": "手机数码"
+            },
+            {
+                "id": "336",
+                "title": "电脑办公"
+            },
+            {
+                "id": "337",
+                "title": "名表首饰"
+            },
+            {
+                "id": "365",
+                "title": "化妆品"
+            },
+            {
+                "id": "370",
+                "title": "服装"
+            },
+            {
+                "id": "371",
+                "title": "女装"
+            },
+            {
+                "id": "372",
+                "title": "母婴"
+            },
+            {
+                "id": "373",
+                "title": "鞋靴箱包"
+            },
+            {
+                "id": "374",
+                "title": "运动户外"
+            },
+            {
+                "id": "375",
+                "title": "汽车用品"
+            },
+            {
+                "id": "380",
+                "title": "日常用品"
+            },
+            {
+                "id": "395",
+                "title": "床上用品"
+            }
+        ],
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "128.0",
+                "salesPrice": "78.0",
+                "sysTime": "2017-02-21 16:46:25",
+                "id": "1495",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/3/075138ce-c5c3-4646-9d6a-51f8ffdb5c54.jpg",
+                "title": "WIS水润面膜套装24片 祛痘控油补水保湿淡痘印收缩毛孔面膜贴",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/3/7ece6413-ae05-4b2c-9e6c-1e40aad981a7.jpg\" /></div>\r\n",
+                "createDate": "2017-01-03"
+            },
+            {
+                "salesCount": "50",
+                "marketPrice": "98.0",
+                "salesPrice": "88.0",
+                "sysTime": "2017-02-21 16:46:25",
+                "id": "1235",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/15/e9194151-d2bc-4611-b40d-ae9b90402bb8.jpg",
+                "title": "dvz朵色新版Color Fever丝绒光感眼影 8色",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/15/cf9b6650-c3d4-4185-936f-3a67b886f5b1.jpg\" /></div>\r\n",
+                "createDate": "2016-10-15"
+            },
+            {
+                "salesCount": "50",
+                "marketPrice": "78.0",
+                "salesPrice": "69.0",
+                "sysTime": "2017-02-21 16:46:25",
+                "id": "1234",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/15/665c80ab-4d0e-4c93-8c38-5c6aed1af234.jpg",
+                "title": "正品DVZ朵色新版持久液态眼线笔",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/15/005e6fe8-3738-4d0e-be0e-c7320b213e12.jpg\" /></div>\r\n",
+                "createDate": "2016-10-15"
+            },
+            {
+                "salesCount": "50",
+                "marketPrice": "68.0",
+                "salesPrice": "60.0",
+                "sysTime": "2017-02-21 16:46:25",
+                "id": "1233",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/15/5e561121-2a98-4422-b9f8-ce04be1982b3.jpg",
+                "title": "dvz朵色皙肤洁净卸妆棉",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/15/5ae92f6a-965e-40e2-a11c-65f8a7bc33f9.jpg\" /></div>\r\n",
+                "createDate": "2016-10-15"
+            },
+            {
+                "salesCount": "50",
+                "marketPrice": "78.0",
+                "salesPrice": "69.0",
+                "sysTime": "2017-02-21 16:46:25",
+                "id": "1232",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/15/af2621aa-564b-47f2-9b15-ef8e9f31057c.jpg",
+                "title": "DVZ朵色嫁接浓密睫毛膏",
+                "content": "<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/15/c13c13f2-966c-4e83-a26e-628ea7242382.jpg\" />",
+                "createDate": "2016-10-15"
+            },
+            {
+                "salesCount": "50",
+                "marketPrice": "128.0",
+                "salesPrice": "109.0",
+                "sysTime": "2017-02-21 16:46:25",
+                "id": "1231",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/15/ee6218f2-34bf-4343-8a47-473713730ae0.jpg",
+                "title": "朵色眉膏 DVZ新款眉膏套盒 双头修容笔+眉刷+刷头+眉膏+网袋5件套",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/15/09ad29bc-56c0-4481-bd85-4492569980b2.jpg\" /><br />\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/15/589149dc-2c09-4fc6-9dbb-7c7c9dc40c50.jpg\" /></div>\r\n",
+                "createDate": "2016-10-15"
+            },
+            {
+                "salesCount": "100",
+                "marketPrice": "108.0",
+                "salesPrice": "99.0",
+                "sysTime": "2017-02-21 16:46:25",
+                "id": "1230",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/15/547f8d8f-aeec-4c20-a818-70ee4934aef8.jpg",
+                "title": "Dvz朵色山羊奶醒肤素颜霜 50g/ml",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/15/b675069c-f68c-470e-8f07-6af1f769da28.jpg\" /></div>\r\n",
+                "createDate": "2016-10-15"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "299.0",
+                "salesPrice": "199.0",
+                "sysTime": "2017-02-21 16:46:25",
+                "id": "1205",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/29/e549c08b-f4f5-46ed-98a9-841208308b3c.jpg",
+                "title": "溪秀小绿盒 超薄补水保湿美白蚕丝修复控油孕妇面膜男女祛痘",
+                "content": "<div style=\"text-align: center;\">\r\n\t<strong><span style=\"color:#008080;\"><span style=\"font-size:16px;\">5盒199再送价值98元补水喷雾一支</span></span></strong><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/29/52d82bd4-4830-4011-81d3-2dc017cde6e1.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/29/fe72bed3-bd8c-457a-82b7-10d42c9a06d7.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/29/36b9aefc-af9e-4695-867e-3cfdecb22b98.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/29/f19017e0-1838-428b-82a5-15a36dc310f6.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/29/aeb561d2-e47e-4a78-8d17-6cb8d74feabe.jpg\" /></div>\r\n",
+                "createDate": "2016-09-29"
+            },
+            {
+                "salesCount": "100",
+                "marketPrice": "128.0",
+                "salesPrice": "119.0",
+                "sysTime": "2017-02-21 16:46:25",
+                "id": "1145",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/22/b1cc2d2f-dc57-47ab-b9a7-910cdbbcac48.jpg",
+                "title": "DVZ朵色水光气垫CC霜 象牙白&自然色",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/23/0cffe074-56cd-4421-9c08-fda04c618256.jpg\" /></div>\r\n",
+                "createDate": "2016-09-23"
+            },
+            {
+                "salesCount": "100",
+                "marketPrice": "98.0",
+                "salesPrice": "89.0",
+                "sysTime": "2017-02-21 16:46:25",
+                "id": "1144",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/22/42f1300b-04a1-48e8-abcf-1aacaee481c0.png",
+                "title": "DVZ朵色双色BB霜 双色V脸润泽BB霜",
+                "content": "<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/22/08c4af6b-07aa-4b9e-bb61-d0e55fa5f8f8.jpg\" />",
+                "createDate": "2016-09-22"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 2,
+        "totalRecord": 16,
+        "updateTime": ""
+    },
+    "status": 0
+}

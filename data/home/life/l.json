@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=385",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "惠州市鹅岭北路16号，中心医院对面黄塘电脑城内，叠翠山庄旁",
+                "distance": "108.0",
+                "phone": "15602657293",
+                "log": "114.39583204758041",
+                "toPhone": "07522125555",
+                "companyName": "惠州铭悦御天健身俱乐部（鹅岭）",
+                "shortDesc": "【生活一家会员专享：年卡9折优惠】惠州唯一一家经营品牌最早,规模最大,项目最全面的俱乐部: 03年开业,营业面积超过4000多平方, 环境优雅(背倚叠翠山,滨临丰湖), 培训班, 肚皮舞培训班, 爵士舞培训班... 成人小孩培训班均有;",
+                "id": "60",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/5/a5d66aef-e3aa-415f-8bf4-643d7598a5ca.jpg",
+                "title": "惠州铭悦御天健身俱乐部（鹅岭）",
+                "lat": "23.081856579868628",
+                "createDate": "2016-07-05"
+            },
+            {
+                "address": "广东省惠州市惠城区环城西二路5号，西湖丽日购物广场后3楼",
+                "distance": "108.4",
+                "phone": "13680727235",
+                "log": "114.40149933145796",
+                "toPhone": "",
+                "companyName": "One two one时尚健身会所（西湖店）",
+                "shortDesc": "【生活一家会员专享：办理年卡享5折优惠（需提前电话预约）】",
+                "id": "832",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/29/eec6dfb5-0607-4071-ac9c-b28831d042f5.jpg",
+                "title": "One two one时尚健身会所（西湖店）",
+                "lat": "23.089642041822554",
+                "createDate": "2016-09-29"
+            },
+            {
+                "address": "惠州江北体育馆B馆",
+                "distance": "108.5",
+                "phone": "13126328373 ",
+                "log": "114.40411872936058",
+                "toPhone": "",
+                "companyName": "零距离健身连锁（江北店）",
+                "shortDesc": "零距离国际健身连锁机构自2003年成立以来，以全民健身为宗旨，促进改善全民体质为己任；全力发展健身事业，倡导科学健身的理念。在全国各省市已发展30多家分店。惠州体育馆华南旗舰店占地近3000平米，是集健身娱乐、商务休闲为一体的综合健身场所。开设项目：有氧健身、自由力量训练、顶级高级瑜伽、宇宙之光超炫动感单车、韩式汗蒸、桌球、乒乓球、国际标准擂台、室内高尔夫球、武道、普拉提、肚皮舞、爵士舞、拉丁舞、民族舞、形体舞、印度舞、韩国热舞、健身操、踏板操、尊巴等各种健身舞蹈课程。",
+                "id": "331",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/19/f5826f40-c355-4087-9fdf-f7b7ba518c1e.jpg",
+                "title": "零距离健身连锁（江北店）",
+                "lat": "23.107773279061924",
+                "createDate": "2016-07-26"
+            },
+            {
+                "address": "惠州市惠城区桥西街道麦地路30号印象麦地2楼",
+                "distance": "109.2",
+                "phone": "0752-2279028",
+                "log": "114.40736916843329",
+                "toPhone": "",
+                "companyName": "乐动健身（麦地）",
+                "shortDesc": "乐动健身引进国际先进的健身会所的经营理念和管理模式，致力于打造“科学、健康、快乐”的健身氛围。",
+                "id": "442",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/28/9a4540c4-3c9f-498d-87c7-6c2a062422f2.png",
+                "title": "乐动健身（麦地）",
+                "lat": "23.074871831872482",
+                "createDate": "2016-08-01"
+            },
+            {
+                "address": "惠州市惠城区麦地东路3号东江明珠写字楼4层",
+                "distance": "109.3",
+                "phone": "13413067586",
+                "log": "114.40758024637036",
+                "toPhone": "",
+                "companyName": "利美健身俱乐部LE BEAUTY（麦地）",
+                "shortDesc": "【生活一家会员专享：8.7折优惠】利美健身俱乐部：夏天就在健身房健康的流汗吧",
+                "id": "420",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/27/8607abc3-db4f-4c7f-8631-c1b054a95b55.jpg",
+                "title": "利美健身俱乐部LE BEAUTY（麦地）",
+                "lat": "23.068382049943555",
+                "createDate": "2016-07-27"
+            },
+            {
+                "address": "惠城区下埔滨江公园城市一号四楼（3B）",
+                "distance": "109.5",
+                "phone": "13414707439",
+                "log": "114.41071850749569",
+                "toPhone": "",
+                "companyName": "零距离国际健身连锁（下埔）",
+                "shortDesc": "【生活一家会员专享：年卡9.5折送精美礼品一份】零距离健身连锁入驻江宁爱涛，打造高品质生活馆\r\n服务项目：瑜伽系列课程：哈达瑜伽、流瑜伽、瘦身瑜伽、热瑜伽、普拉提、养生瑜伽等；有氧操课程有拉丁、踏板、街舞、爵士、肚皮舞、战斗搏击、国标、影视炫舞、动感单车等课程，有氧运动区的所有组合机器及无氧运动区的所有器械，同时配有中、高级私人教练，每天开设各种类型的训练课程，桑拿淋浴，免费体能测试和健身指导。",
+                "id": "188",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/5/cfe6b89b-9f70-4001-9c3a-319348b62444.jpg",
+                "title": "零距离国际健身连锁（下埔）",
+                "lat": "23.083462079147573",
+                "createDate": "2016-07-06"
+            },
+            {
+                "address": "惠州市惠城区麦地路与横江三路交汇数码商业街南段三楼儿童世界，金太阳儿童游乐场",
+                "distance": "109.5",
+                "phone": "15018885782",
+                "log": "114.41105921481903",
+                "toPhone": "",
+                "companyName": "金太阳儿童乐园（数码商业街）",
+                "shortDesc": "【生活一家会员专享：9.9元单人单次沙池】\r\n孩子的世界孩子的乐园",
+                "id": "1052",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/17/ef3d5be7-1b26-49b6-aa0e-bd3c9ba76eed.jpg",
+                "title": "金太阳儿童乐园（数码商业街）",
+                "lat": "23.07840034458717",
+                "createDate": "2017-01-17"
+            },
+            {
+                "address": "广东惠州丽日银座与天虹交汇处",
+                "distance": "109.7",
+                "phone": "13502237179",
+                "log": "114.41216738596346",
+                "toPhone": "",
+                "companyName": "零距离健身房（天虹店）",
+                "shortDesc": "【生活一家会员专享：办理年卡享9.5折优惠】\r\n会所经营项目：动感单车、高级私家影院、韩式汗蒸、高温瑜珈、台球、兵兵球、篮球、羽毛球、国际标准擂台、武道区、托幼区、室内高尔夫、普拉提、肚皮舞、爵士舞、拉丁舞、民族舞、形体芭蕾、健身操、搏击操、街舞、踏板舞、瑜珈球操、有氧冲击、印度舞、巴西热舞等舞蹈操课。",
+                "id": "337",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/20/05ef8c68-fd46-497c-b487-3ac58c665cb8.jpg",
+                "title": "零距离健身房（天虹店）",
+                "lat": "23.075025528605824",
+                "createDate": "2016-07-20"
+            },
+            {
+                "address": "惠州市惠城区麦地路73-1号(安鸿大厦4楼)，天天好健身俱乐部",
+                "distance": "110.0",
+                "phone": "18200765941",
+                "log": "114.41520973705511",
+                "toPhone": "",
+                "companyName": "天天好国际健身俱乐部（麦地）",
+                "shortDesc": "【生活一家会员专享：跆拳道享5折，年卡享3.5折，月卡300元，次卡100次，免费体验24小时】\r\n天天好健身会所结合休闲与运动一体化，设施齐全，舒适宽敞的客服区以及天然火山石的排毒干蒸房，器械均采用顶级品牌健身产品，拥有经验丰富的专业健身教练团队，课程丰富",
+                "id": "716",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/6/4aa6c7fd-f093-4ebc-af8f-41342f1457cf.jpg",
+                "title": "天天好国际健身俱乐部（麦地）",
+                "lat": "23.077810227677606",
+                "createDate": "2016-09-06"
+            },
+            {
+                "address": "惠城区佳兆业一期三楼",
+                "distance": "110.0",
+                "phone": "13531709120",
+                "log": "114.41927232479334",
+                "toPhone": "",
+                "companyName": "one two one健身会所（佳兆业）",
+                "shortDesc": "【生活一家专享优惠六折 年卡＋300送一年送游泳，每日前10名送运动套装，美容券等，请致电：13531709120享优惠】ONE TWO ONE是一家集健身、美容、SPA、纤体为一体的健身会所，位于港汇新天地五楼的会所超过4600平米的场所面积在惠州首屈一指，拥有“惠美力健身乐部”和“新懿健身美容会”两大品牌，共有五家大型“Wellness”连锁健康生活方式会所，为客户提供全面专业健康美体解决方案。",
+                "id": "236",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/9/33cbaf05-6041-4c5c-82fa-41fb03c4f40a.jpg",
+                "title": "one two one健身会所（佳兆业）",
+                "lat": "23.115023798232464",
+                "createDate": "2016-07-12"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 2,
+        "totalRecord": 14,
+        "updateTime": ""
+    },
+    "status": "0"
+}

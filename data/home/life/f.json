@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=261",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "惠州市博罗县福田镇福中路31号休闲一刻(福田店)",
+                "distance": "64.0",
+                "phone": "18675252474",
+                "log": "113.96974999589152",
+                "toPhone": "",
+                "companyName": "休闲一刻（福田店）",
+                "shortDesc": "【生活一家会员专享：会员消费赠送水果沙拉一份】",
+                "id": "304",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/18/c0e7cd2f-3fc9-4ec0-8ce7-3174edf3a5c3.jpg",
+                "title": "休闲一刻（福田店）",
+                "lat": "23.212899881721277",
+                "createDate": "2016-07-18"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇文广路135号",
+                "distance": "95.2",
+                "phone": "18320203330",
+                "log": "114.27668781326908",
+                "toPhone": "",
+                "companyName": "红绿灯餐吧（罗阳）",
+                "shortDesc": "【生活一家会员专享：9折优惠】\r\n红绿灯餐吧：全新交友模式红绿灯，红灯，我想静静，别打扰，黄灯，不介意文明搭讪，绿灯，欢迎大家跟我搭讪一起玩",
+                "id": "234",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/9/6bd91688-8373-46f8-85cf-cfefb13729f5.jpg",
+                "title": "红绿灯餐吧（罗阳）",
+                "lat": "23.16630585502551",
+                "createDate": "2016-07-09"
+            },
+            {
+                "address": "惠州市博罗县城商业中街127号文化广场对面趣道贡茶",
+                "distance": "95.5",
+                "phone": "07526737700",
+                "log": "114.27971034341144",
+                "toPhone": "",
+                "companyName": "趣道贡茶（罗阳县城店）",
+                "shortDesc": "【生活一家会员专享：8.5折优惠】\r\n趣道贡茶（罗阳县城店）：原味奶盖茶、黑糖乌龙奶盖、双Q珍珠奶茶、奶盖格雷、一颗柠檬茶、蜂蜜柚子茶、仙草蜜",
+                "id": "165",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/20/7c7c412d-90d9-4229-8c67-c8df4bf70f36.jpg",
+                "title": "趣道贡茶（罗阳县城店）",
+                "lat": "23.165800363302687",
+                "createDate": "2016-08-18"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇商业中街213号",
+                "distance": "95.8",
+                "phone": "07526622611",
+                "log": "114.28178985839853",
+                "toPhone": "",
+                "companyName": "蹲点甜品（罗阳）",
+                "shortDesc": "【生活一家会员专享：9折优惠】",
+                "id": "276",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/14/f08d590c-abfa-4833-8866-0ae4d55bb874.jpg",
+                "title": "蹲点甜品（罗阳）",
+                "lat": "23.16591095942152",
+                "createDate": "2016-07-14"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇光明路16号和风小屋",
+                "distance": "96.2",
+                "phone": "18620851983",
+                "log": "114.28601077549867",
+                "toPhone": "",
+                "companyName": "和风小屋料理店（罗阳）",
+                "shortDesc": "【生活一家会员专享：满35打9折，满70打8.5折】\r\n和风小屋（寿司、小吃、饮品）",
+                "id": "282",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/15/1657d2f0-f9f5-4c8f-bd9a-901473ef065d.jpg",
+                "title": "和风小屋料理店（罗阳）",
+                "lat": "23.16459670100275",
+                "createDate": "2016-07-15"
+            },
+            {
+                "address": "罗阳镇东北路60号Hi TEA旗舰店",
+                "distance": "96.3",
+                "phone": "13112187507",
+                "log": "114.28712509888287",
+                "toPhone": "",
+                "companyName": "Hi TEA旗舰店（罗阳镇）",
+                "shortDesc": "【生活一家会员专享：9折优惠】",
+                "id": "309",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/18/9ab33a04-d185-4f7e-a82d-cd0569055e21.jpg",
+                "title": "Hi TEA旗舰店（罗阳镇）",
+                "lat": "23.16367680324864",
+                "createDate": "2016-07-19"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇罗阳一路50号",
+                "distance": "96.3",
+                "phone": "13927317227",
+                "log": "114.28727023873164",
+                "toPhone": "",
+                "companyName": "随便休闲吧（罗阳）",
+                "shortDesc": "【生活一家会员专享：9折优惠】随便休闲吧主营：批发零售进口啤酒、干邑啤酒、进口海产小食、进口秘鲁玛卡、辣木籽",
+                "id": "200",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/8/72ce08f8-3a76-47c6-bc45-c2b495d0abb8.jpg",
+                "title": "随便休闲吧（罗阳）",
+                "lat": "23.16520112739123",
+                "createDate": "2016-07-27"
+            },
+            {
+                "address": "广东省惠州市博罗县建设路5栋，酸奶小栈",
+                "distance": "96.7",
+                "phone": "18819643550",
+                "log": "114.29086056744526",
+                "toPhone": "",
+                "companyName": "酸奶小栈（博罗店）",
+                "shortDesc": "【生活一家会员专享：买二送一】\r\n\r\n智然堂纯手工酸奶小栈连锁项目，源于台湾。公司以纯手工为项目工艺宗旨，目前已经在重庆、西安、广州、成都等开设专卖店50余家，加盟势头正呈泉涌发展之势。现已荟萃纯手工酸奶、纯手工酸奶冰淇淋、纯手工鲜榨爆米花三大系列产品，得到社会各界一致好评。",
+                "id": "730",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/7/d756ed3c-c058-4152-9223-8c5cd39b7a6b.jpg",
+                "title": "酸奶小栈（博罗店）",
+                "lat": "23.170090997102317",
+                "createDate": "2016-09-07"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇中园一路126号",
+                "distance": "96.7",
+                "phone": "13825483020",
+                "log": "114.29094793415246",
+                "toPhone": "",
+                "companyName": "这里咖啡馆（罗阳）",
+                "shortDesc": "【生活一家会员专享：9折优惠】",
+                "id": "310",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/19/48aa9887-5084-413f-ad01-bec822d9e286.jpg",
+                "title": "这里咖啡馆（罗阳）",
+                "lat": "23.166364392709365",
+                "createDate": "2016-07-19"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇商业中街477号葡猪猪",
+                "distance": "96.7",
+                "phone": "07526736566 ",
+                "log": "114.29103014760528",
+                "toPhone": "",
+                "companyName": "葡猪猪（罗阳）",
+                "shortDesc": "【生活一家会员专享：饮料买5杯送1杯】主营：猪扒包、小吃、餐饮",
+                "id": "182",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/4/4afd14b6-f680-44e5-a8b9-53f530fd482e.jpg",
+                "title": "葡猪猪（罗阳）",
+                "lat": "23.16703393393752",
+                "createDate": "2016-07-30"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 24,
+        "totalRecord": 236,
+        "updateTime": ""
+    },
+    "status": "0"
+}

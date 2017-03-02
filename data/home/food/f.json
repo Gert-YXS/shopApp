@@ -1,0 +1,97 @@
+{
+    "msg": "",
+    "param": {
+        "tagList": {},
+        "parentTagList": [],
+        "advertList": [
+            {
+                "id": "8",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/18/d41e65b1-004e-4531-b064-69a3cc5dc2ef.jpg",
+                "title": "西藏那曲虫草",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/webappinfo.action?id=951",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "14",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/26/01e734a1-ff8f-42d5-b3cf-e891d8d7e853.jpg",
+                "title": "奇华月饼 厂价直销",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%A5%87%E5%8D%8E",
+                "createDate": "2016-01-07"
+            },
+            {
+                "id": "15",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/23/6b7d96db-6429-4cca-a5f7-ace6609c46ea.jpg",
+                "title": "农家散养土鸡蛋",
+                "url": "http://www.gdshyj.com/shop/webapp/index/food/shenghuoshipinganddetail.action#shenghuoshiping=1105",
+                "createDate": "2016-01-07"
+            }
+        ]
+    },
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "49.0",
+                "salesPrice": "30.0",
+                "sysTime": "2017-02-22 15:34:19",
+                "id": "1494",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/3/4c43a789-6073-4496-a4eb-2ebc7c465067.jpg",
+                "title": "椰正世家 正宗海南生榨椰子汁245ml*12手提装",
+                "content": "<div style=\"text-align: center;\">\r\n\t<strong><span style=\"font-size:20px;\">惠城区内包邮<br />\r\n\t<span style=\"color:#ff0000;\">其他地区需补邮费15元</span></span></strong><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/3/fe5c5ff3-f612-4ade-9731-690a1f12dd14.jpg\" /></div>\r\n",
+                "createDate": "2017-01-03"
+            },
+            {
+                "salesCount": "100",
+                "marketPrice": "120.0",
+                "salesPrice": "88.0",
+                "sysTime": "2017-02-22 15:34:19",
+                "id": "1212",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/8/07f0cabf-52b6-4bfd-ae5e-f7eb228b3e9b.jpg",
+                "title": "香港风顺堂百香果鸡蛋果果汁 245ml*15",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/8/a4ada52c-6420-4d77-bd2d-eb19f443e70b.jpg\" /></div>\r\n",
+                "createDate": "2016-11-29"
+            },
+            {
+                "salesCount": "2000",
+                "marketPrice": "75.0",
+                "salesPrice": "59.0",
+                "sysTime": "2017-02-22 15:34:19",
+                "id": "1274",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/1/1a767abf-160c-4c4a-933b-f6c3c5220aa3.jpg",
+                "title": "丹荔园荔枝果醋饮料 惠州特产果汁饮料300ml*15支",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/11/1/8e68bddf-fdcf-48b9-8a93-201b30176b88.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/11/1/c29dcb6e-84c5-4928-878b-5db6aba86d39.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/11/1/be0440ef-c46e-4a0e-9406-d936008a5082.jpg\" /></div>\r\n",
+                "createDate": "2016-11-01"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "159.0",
+                "salesPrice": "119.0",
+                "sysTime": "2017-02-22 15:34:19",
+                "id": "1048",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/31/9f528827-38d2-4c18-8486-96bbe4d1da39.jpg",
+                "title": "台湾进口饮料 绿力水蜜桃芒果葡萄味480ML*24瓶",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/31/772103a5-aa5d-4137-b17f-873f3170b0ee.jpg\" /></div>\r\n",
+                "createDate": "2016-08-31"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "129.0",
+                "salesPrice": "98.0",
+                "sysTime": "2017-02-22 15:34:19",
+                "id": "1047",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/31/639179b5-93ff-41ea-bf4c-72eb83f29b3f.jpg",
+                "title": "马来西亚进口100冲劲牌原味 柠檬味100plus运动饮料325ml*24瓶/箱",
+                "content": "<p style=\"margin: 0px; padding: 0px; line-height: 1.5; clear: both; color: rgb(51, 51, 51); font-family: 'Hiragino Sans GB', Tahoma, Arial, 宋体, sans-serif; font-size: 12px;\">\r\n\t<span style=\"color: rgb(255, 0, 255); font-size: 16px; line-height: 1.5;\">宝贝名称：100冲劲原味运动、柠檬味</span></p>\r\n<p style=\"margin: 0px; padding: 0px; line-height: 1.5; clear: both; color: rgb(51, 51, 51); font-family: 'Hiragino Sans GB', Tahoma, Arial, 宋体, sans-serif; font-size: 12px;\">\r\n\t<span style=\"font-size:16px;\"><span style=\"color: rgb(255, 0, 255);\">宝贝净重：325ml</span></span></p>\r\n<p style=\"margin: 0px; padding: 0px; line-height: 1.5; clear: both; color: rgb(51, 51, 51); font-family: 'Hiragino Sans GB', Tahoma, Arial, 宋体, sans-serif; font-size: 12px;\">\r\n\t<span style=\"font-size:16px;\"><span style=\"color: rgb(255, 0, 255);\">宝贝产地：马来西亚</span></span></p>\r\n<p style=\"margin: 0px; padding: 0px; line-height: 1.5; clear: both; color: rgb(51, 51, 51); font-family: 'Hiragino Sans GB', Tahoma, Arial, 宋体, sans-serif; font-size: 12px;\">\r\n\t<span style=\"font-size:16px;\"><span style=\"color: rgb(255, 0, 255);\">宝贝规格：整箱24瓶，整箱销售</span></span></p>\r\n<div style=\"text-align: center;\">\r\n\t<span style=\"font-size:16px;\"><span style=\"color: rgb(255, 0, 255); font-family: 'Hiragino Sans GB', Tahoma, Arial, 宋体, sans-serif; line-height: 1.5;\">宝贝介绍：100冲劲运动饮料是马来西亚最畅销的饮料，100冲劲饮料是碳酸饮料迅速补充运动后失去的水分和矿物质，令人瞬间恢复冲劲。</span></span><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/31/cb2b0706-bbc6-4c50-a7ea-0729ea7dc103.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/31/533ce848-ab87-4322-90f2-796326add124.jpg\" /></div>\r\n",
+                "createDate": "2016-08-31"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 1,
+        "totalRecord": 5,
+        "updateTime": ""
+    },
+    "status": 0
+}

@@ -1,0 +1,132 @@
+{
+    "url": "http://www.gdshyj.com/shop/mproduct!list.action?pageNum=1&priceSort=&salesCountSort=0&bigCategoryId=255",
+    "msg": "",
+    "param": {
+        "tagList": {},
+        "parentTagList": [],
+        "advertList": [{
+            "id": "13",
+            "pic": "http://www.gdshyj.com/shoppic/2016/5/7/fc81f839-5267-4f3d-acfb-18a9b7199209.jpg",
+            "title": "宝马带你走进现代炫酷的科技",
+            "url": "www.gdshyj.com",
+            "createDate": "2016-01-06"
+        }, {
+            "id": "16",
+            "pic": "http://www.gdshyj.com/shoppic/2016/5/7/e03ab8c1-f0ac-4ef4-b5f3-55be0c564f13.jpg",
+            "title": "iPhone6s 唯一的不同 是处处都不同",
+            "url": "www.gdshyj.com",
+            "createDate": "2016-01-09"
+        }]
+    },
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "pageList": [{
+            "salesCount": "270",
+            "marketPrice": "40.0",
+            "salesPrice": "25.0",
+            "sysTime": "2017-02-21 16:30:24",
+            "id": "1001",
+            "pic": "http://www.gdshyj.com/shoppic/2016/8/24/cccb36bb-e87a-4ec9-8846-a199ad2abb5c.png",
+            "title": "矮陂土特产梅菜芯 梅菜干 正宗矮陂梅菜 4斤/盒（消费满100元包邮）",
+            "content": "<div>\r\n\t&nbsp;</div>\r\n<div>\r\n\t<span style=\"font-size:22px;\"><strong><span style=\"font-size:20px;\"><span style=\"color:#ff0000;\">消费满100元包邮，不满100元的请自觉把邮费加入购物车一起结算，谢谢~</span></span></strong></span></div>\r\n<div>\r\n\t<span style=\"font-size:22px;\"><strong><span style=\"font-size:20px;\">新鲜的梅菜经人工采摘精选，晾晒，飘盐（用低纳盐腌制）等多道工序制成，味道鲜香，口感爽脆，不会很咸哦</span></strong></span></div>\r\n<div>\r\n\t<span style=\"font-size:18px;\"><strong><span style=\"color:#ff0000;\">注意（<span style=\"font-family: tahoma, arial, 'Hiragino Sans GB', 宋体, sans-serif; line-height: 19.6px; background-color: rgb(246, 246, 246);\">洗了再泡一个小时左右就不会咸了</span>）</span></strong></span><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/24/71eaf9ae-ca67-4281-9dff-3c79c7eccc0c.jpg\" style=\"font-size: 12px;\" /></div>\r\n",
+            "createDate": "2017-02-17"
+        }, {
+            "salesCount": "300",
+            "marketPrice": "125.0",
+            "salesPrice": "90.0",
+            "sysTime": "2017-02-21 16:30:24",
+            "id": "1015",
+            "pic": "http://www.gdshyj.com/shoppic/2016/8/26/ef41f009-a9f4-4f20-9812-c3f447b745cd.png",
+            "title": "农家自榨花生油 5斤装，10斤装（消费满100元包邮）",
+            "content": "<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/26/6ffeb682-343b-41c2-aa9f-4e53c56623b7.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/26/c0b37ee0-c4af-4df9-b404-6d25989abb32.jpg\" />",
+            "createDate": "2017-01-21"
+        }, {
+            "salesCount": "300",
+            "marketPrice": "18.0",
+            "salesPrice": "10.0",
+            "sysTime": "2017-02-21 16:30:24",
+            "id": "1016",
+            "pic": "http://www.gdshyj.com/shoppic/2016/8/26/ec87eca8-c1bd-411b-b7dc-979a50354303.jpg",
+            "title": "爽脆番石榴   3斤/装，7斤/箱 （消费满100元包邮）",
+            "content": "<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/26/1ec02713-0c9d-4bd3-a9fd-8912928c974f.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/26/93792646-2122-4761-afd6-a0b30e384125.jpg\" />",
+            "createDate": "2017-01-21"
+        }, {
+            "salesCount": "200",
+            "marketPrice": "59.0",
+            "salesPrice": "36.0",
+            "sysTime": "2017-02-21 16:30:24",
+            "id": "1025",
+            "pic": "http://www.gdshyj.com/shoppic/2016/8/27/34c52028-9d36-4733-9975-2ce485a24b3d.jpg",
+            "title": "自创苹果手机 5/6/6p手机壳 疲惫世界的英雄梦，假子原创初心系列手机壳",
+            "content": "<div style=\"text-align: center;\">\r\n\t<strong><span style=\"color:#008080;\"><span style=\"font-family: 'Helvetica Neue', Helvetica, STHeiTi, sans-serif; font-size: 16px; line-height: 27.2px; text-align: justify;\">假子手机壳</span></span></strong><br />\r\n\t<span style=\"color:#ff0000;\"><span style=\"font-family: 'Helvetica Neue', Helvetica, STHeiTi, sans-serif; font-size: 16px; line-height: 27.2px; text-align: justify;\">【</span></span><strong><span style=\"color:#ff8c00;\"><span style=\"font-family: 'Helvetica Neue', Helvetica, STHeiTi, sans-serif; font-size: 16px; line-height: 27.2px; text-align: justify;\"><span style=\"font-size:18px;\">支持</span></span><span style=\"font-size:18px;\">苹果手机 5/6/6p</span></span></strong><span style=\"font-family: 'Helvetica Neue', Helvetica, STHeiTi, sans-serif; font-size: 16px; line-height: 27.2px; text-align: justify; color: rgb(255, 0, 0);\">】</span><br />\r\n\t<span style=\"font-size:16px;\"><span style=\"color:#000000;\"><span style=\"font-family: 'Helvetica Neue', Helvetica, STHeiTi, sans-serif; line-height: 27.2px; text-align: justify;\">提示：需要什么型号手机的手机壳拍下请备注好</span></span></span></div>\r\n<div>\r\n\t<span style=\"color:#ff0000;\"><span style=\"font-family: 'Helvetica Neue', Helvetica, STHeiTi, sans-serif; font-size: 16px; line-height: 27.2px; text-align: justify;\">我们顺心而行是为了在这个世界活的不一样。所以我们创立了&ldquo;假子&rdquo;这个原创品牌。推出了初心系列手机壳。手机壳，只是一个载体，当然也可以是一件衣服，甚至是一把雨伞。我们希望可以通过这个产品，唤起人们忠于内心,勇于追求不一样的生活。（原创）</span></span></div>\r\n<div style=\"text-align: center;\">\r\n\t<span style=\"color:#ff0000;\"><span style=\"font-family: 'Helvetica Neue', Helvetica, STHeiTi, sans-serif; font-size: 16px; line-height: 27.2px; text-align: justify;\"><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/27/1edf3e0e-c6cf-45f7-8911-97e61460b248.jpg\" /></span></span></div>\r\n<div style=\"text-align: center;\">\r\n\t<span style=\"color:#ff0000;\"><span style=\"font-family: 'Helvetica Neue', Helvetica, STHeiTi, sans-serif; font-size: 16px; line-height: 27.2px; text-align: justify;\"><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/27/90ce1e71-8bd8-4106-8a93-4eb0f0032fa8.jpg\" /></span></span></div>\r\n<div style=\"text-align: center;\">\r\n\t&nbsp;</div>\r\n",
+            "createDate": "2017-01-21"
+        }, {
+            "salesCount": "495",
+            "marketPrice": "118.0",
+            "salesPrice": "62.0",
+            "sysTime": "2017-02-21 16:30:24",
+            "id": "1177",
+            "pic": "http://www.gdshyj.com/shoppic/2016/9/26/d6a543e4-cd47-41f6-a812-274da55d0cd5.jpg",
+            "title": "凤爪小妹 酱香招牌鸡爪 柠檬鸭掌 一斤装，二斤包送",
+            "content": "<div style=\"text-align: center;\">\r\n\t<span style=\"color:#2f4f4f;\"><strong><span style=\"font-size:20px;\">温馨提示</span></strong></span><br />\r\n\t<span style=\"font-size:14px;\">配送范围：惠城区5公里内<br />\r\n\t也可到店自取<br />\r\n\t联系电话：13542700633<br />\r\n\t地址：<u>惠城区古塘坳嘉逸园门口凤爪小妹<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/26/93d19bda-c9c1-4ed1-93dd-5ce5a3dc3b48.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/26/dabb03dc-aa26-48cb-9844-fa1defc3f40f.jpg\" /></u></span><br />\r\n\t&nbsp;</div>\r\n",
+            "createDate": "2017-01-21"
+        }, {
+            "salesCount": "300",
+            "marketPrice": "168.0",
+            "salesPrice": "118.0",
+            "sysTime": "2017-02-21 16:30:24",
+            "id": "1055",
+            "pic": "http://www.gdshyj.com/shoppic/2016/9/1/9bf83bc2-06fd-4eaa-a346-efd117c5e812.png",
+            "title": "加厚床裙式磨毛四件套  1.8m，2.0m",
+            "content": "<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/1/0df72bc5-31e9-41ae-b6ab-bc0e5d1718bf.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/1/114644b9-028b-4503-9e2b-97a315638719.jpg\" />",
+            "createDate": "2017-01-21"
+        }, {
+            "salesCount": "500",
+            "marketPrice": "250.0",
+            "salesPrice": "100.0",
+            "sysTime": "2017-02-21 16:30:24",
+            "id": "1090",
+            "pic": "http://www.gdshyj.com/shoppic/2016/9/14/ced7231a-3f1c-4cd1-b8cf-76a1d1635b79.jpg",
+            "title": "韶关双蒸地窖酒 翁源翁城客佳酿米酒10斤装",
+            "content": "<div>\r\n\t<span style=\"color: rgb(102, 102, 102); font-family: 'Hiragino Sans GB', 'Microsoft YaHei', 黑体, sans-serif; font-size: 18px; line-height: 32.4px;\">本酒坊系百年传统工艺酒坊，沿袭祖传的古法技艺；选用​&zwnj;&zwnj;优质稻米，纯净清甜水源，配以客家传统酒饼发酵，经两次蒸馏后而成的纯正&ldquo;双蒸&rdquo;米酒，将其灌封于瓦埕之中，窖埋于绿树地下，经年余窖藏后，启盖其味极醇香；地道的纯粮酿造酒，不含添加剂，好饮不上头，欢迎现场见证品质的酿造。</span></div>\r\n<div style=\"text-align: center;\">\r\n\t<span style=\"color:#8b4513;\"><span style=\"font-family: 'Hiragino Sans GB', 'Microsoft YaHei', 黑体, sans-serif; font-size: 18px; line-height: 32.4px;\">适合</span><span style=\"font-family: 'Hiragino Sans GB', 'Microsoft YaHei', 黑体, sans-serif; font-size: 18px; line-height: 32.4px;\">餐饮酒楼、婚宴喜酒，长期合作。</span></span><br />\r\n\t<span style=\"color:#ff0000;\"><span style=\"font-size:18px;\">联系电话：13226508948</span></span><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/14/a68ebf00-c1ad-4f0b-97f0-44b8f5002ced.jpg\" style=\"font-size: 12px;\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/14/a6f94559-ac06-4fa0-a199-6d597f3425e7.jpg\" /></div>\r\n",
+            "createDate": "2016-10-18"
+        }, {
+            "salesCount": "500",
+            "marketPrice": "20.0",
+            "salesPrice": "16.0",
+            "sysTime": "2017-02-21 16:30:24",
+            "id": "1225",
+            "pic": "http://www.gdshyj.com/shoppic/2016/10/12/35a4cc7f-f774-42d4-ac6a-4c3c2dd7ad39.jpg",
+            "title": "蒜蓉辣椒酱 瑶柱招牌干贝虾米辣椒酱250g下饭酱拌面辣酱",
+            "content": "<div style=\"text-align: center;\">\r\n\t<strong><span style=\"font-size:20px;\">惠城区内免费送货</span><br />\r\n\t<span style=\"font-size:18px;\">蒜蓉辣椒酱16元<br />\r\n\t瑶柱招牌干贝虾米辣椒酱26元</span></strong><br />\r\n\t<strong><span style=\"color:#8b4513;\"><span style=\"font-size:16px;\">其他地区需加邮费8元（自行加入购物车买单）</span></span><br />\r\n\t<span style=\"color:#ff0000;\"><span style=\"font-size:22px;\">【</span></span></strong><span style=\"color:#ff0000;\"><strong style=\"font-size: 13.3333px;\"><span style=\"font-size: 22px;\">三瓶以上包邮</span></strong><strong style=\"font-size: 12px;\"><span style=\"font-size:22px;\">】</span></strong></span><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/12/ba6aa2e4-a314-4cf5-97a2-a0c4e57c7cb4.jpg\" style=\"font-size: 12px;\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/12/ec61dfb8-1dc2-4f43-a1af-6a7a986f31c8.jpg\" /></div>\r\n<br />\r\n",
+            "createDate": "2016-10-12"
+        }, {
+            "salesCount": "500",
+            "marketPrice": "168.0",
+            "salesPrice": "88.0",
+            "sysTime": "2017-02-21 16:30:24",
+            "id": "1223",
+            "pic": "http://www.gdshyj.com/shoppic/2016/10/11/eb4a0d82-d166-4240-af92-4aabbd67661f.jpg",
+            "title": "美E颜中药祛痘膏20g",
+            "content": "<div style=\"text-align: center;\">\r\n\t<strong><span style=\"color:#8b4513;\"><span style=\"font-size:16px;\">联系电话：</span><span style=\"font-size: 12px;\"><span style=\"font-size:16px;\">13725095256</span></span><br />\r\n\t<span style=\"font-size: 16px;\"><span style=\"font-size:14px;\">取货地址</span>：惠州市惠城区荷兰水乡百安轩（美E颜）</span></span></strong><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/11/62131efa-5fc1-46a5-8e09-d68aac8f21dc.jpg\" style=\"font-size: 12px;\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/10/11/c492b3ab-09a0-472f-a176-6df81811dde1.jpg\" /></div>\r\n",
+            "createDate": "2016-10-11"
+        }, {
+            "salesCount": "500",
+            "marketPrice": "128.0",
+            "salesPrice": "88.0",
+            "sysTime": "2017-02-21 16:30:24",
+            "id": "1076",
+            "pic": "http://www.gdshyj.com/shoppic/2016/9/10/fc3efc2b-4ee6-4470-972b-665f0bbaa6f0.jpg",
+            "title": "巧师傅月饼 HelloKitty定制礼盒 六个装六个味",
+            "content": "<div style=\"text-align: center;\">\r\n\t<span style=\"color:#4b0082;\"><span style=\"font-size:16px;\">巧师傅 HelloKitty定制礼盒</span></span><span style=\"font-size: 12px;\"><span style=\"color:#4b0082;\"><span style=\"font-size:16px;\">六个装</span></span></span><br />\r\n\t<span style=\"font-size:16px;\">(紫薯 金沙奶黄 草莓 红豆 蓝莓 绿茶)<br />\r\n\t<span style=\"color:#b22222;\"><span style=\"background-color:#ffffe0;\">送女朋友、朋友的最佳选择</span></span></span><br />\r\n\t&nbsp;</div>\r\n<div>\r\n\t<span style=\"font-size: 16px;\">注：惠州</span><span style=\"font-size:16px;\">市区范围（3公里内）免费送货，市区外需加邮费（顺丰标准快递费13元，如需快递请自行把邮费一起加入购物车付款，谢谢配合）</span></div>\r\n<div style=\"text-align: center;\">\r\n\t<span style=\"font-size:16px;\"><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/10/e8b29179-1815-4b35-befa-6fc40a7e97ba.jpg\" /></span></div>\r\n<div>\r\n\t<span style=\"font-size:16px;\">外包装详情</span></div>\r\n<div style=\"text-align: center;\">\r\n\t<span style=\"font-size:16px;\"><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/10/2864ab73-45e1-4b8b-9b67-9b4c64787019.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/10/7fa00081-d3d4-475f-adc7-61790eebc216.jpg\" /></span></div>\r\n<div style=\"text-align: center;\">\r\n\t&nbsp;</div>\r\n",
+            "createDate": "2016-09-10"
+        }],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 1,
+        "totalRecord": 10,
+        "updateTime": ""
+    },
+    "status": 0
+}

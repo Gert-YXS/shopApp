@@ -1,0 +1,177 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=384",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "惠州罗浮山风景名胜区",
+                "distance": "74.2",
+                "phone": "07526669915",
+                "log": "114.06569457313464",
+                "toPhone": "",
+                "companyName": "惠州罗浮山风景名胜区",
+                "shortDesc": "罗浮山峻拔奇巧峭，是7000万年前中侏罗纪和白垩纪时燕山运动型号层的，常年云雾缭绕，大小432座山峰，峭壁危崖，980多道瀑布流泉，“山山瀑布，处处流泉”。",
+                "id": "61",
+                "pic": "http://www.gdshyj.com/shoppic/2016/5/12/a1494ad5-841a-4d29-bc57-3f1dcb3eef7e.jpg",
+                "title": "惠州罗浮山风景名胜区",
+                "lat": "23.25983434837915",
+                "createDate": "2016-05-18"
+            },
+            {
+                "address": "惠城区环城西路2号西湖公园",
+                "distance": "107.8",
+                "phone": "",
+                "log": "114.39551949190366",
+                "toPhone": "",
+                "companyName": "惠州西湖",
+                "shortDesc": "惠州西湖是惠州著名的旅游景点",
+                "id": "62",
+                "pic": "http://www.gdshyj.com/shoppic/2016/5/12/7b75353a-4c4c-4fad-8efd-5c7b51517cb8.jpg",
+                "title": "惠州西湖",
+                "lat": "23.092420731655817",
+                "createDate": "2016-05-23"
+            },
+            {
+                "address": "惠州市下埔路8-9号",
+                "distance": "109.6",
+                "phone": "18902626288",
+                "log": "114.41206986207276",
+                "toPhone": "",
+                "companyName": "假日风光旅行社（下埔）",
+                "shortDesc": "【生活一家会员专享：消费享9.5折,赠送旅游三宝】\r\n\r\n 惠州市假日风光旅行社成立于2006年12月，是一家经国家旅游局批准的国内旅行社。公司注册资本为三十万元。假日风光自成立之日起，就坚持“创旅游服务品牌、树企业良好形象”的发展战略，秉承“游客至上、质量至上、信誉至上、服务至上”的经营服务理念和“以质量树信誉、以信誉促发展”的经营策略，不断通过管理创新和服务创新，提高企业素质和服务质量。努力为市民提供度假旅游、会议旅游、商务考察旅游、线路设计、导游服务、订房订票、旅游包车等专业化服务。假日风光拥有一支“素质优良、团结拼搏、作风过硬、业务娴熟”的管理人员、营销人员、操作人员和导游队伍；客户服务流程、操作控制系统和质量管理体系都日益成熟。\r\n 如今，假日风光已拥有众多长期合作、彼此信任的同行客户，并在游客中树立了自己良好的口碑和品牌形象。假日风光用自己的努力赢得了同行的尊重和大量游客的信赖。",
+                "id": "746",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/8/e752aae2-e5d4-47d9-b387-2c5749b3946e.jpg",
+                "title": "假日风光旅行社（下埔）",
+                "lat": "23.080910287346118",
+                "createDate": "2016-09-08"
+            },
+            {
+                "address": "广东省惠州市惠城区东平大道，中国国旅",
+                "distance": "111.5",
+                "phone": "0752-6666676",
+                "log": "114.4312951649248",
+                "toPhone": "",
+                "companyName": "中国国旅（东平大道店）",
+                "shortDesc": " 中国国际旅行社总社成立于1954年，于2008年3月更名为中国国际旅行社总社有限公司(简称中国国旅)。经过几代国旅人的艰苦创业，现已发展为国内规模最大、实力最强的旅行社企业集团，累计招揽、接待海外来华旅游者1000多万人次。“CITS”已成为国内顶级、亚洲一流、世界知名的中国驰名商标，在世界60多个国家和地区通过注册。\r\n 中国国旅的愿景目标是发展成为“中国旅游产业领域中拥有旗舰地位的企业”、“央企中最具市场竞争力的旅行社集团”、“中国最强的跨国旅游运营商”、“全球最为著名的旅游业品牌之一”。",
+                "id": "753",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/10/1e0f808b-eaac-43e5-bf03-8eecb8a0cc8a.jpg",
+                "title": "中国国旅（东平大道店）",
+                "lat": "23.08579555440452",
+                "createDate": "2016-09-10"
+            },
+            {
+                "address": "龙门县龙门铁泉",
+                "distance": "116.1",
+                "phone": "400-807-3338",
+                "log": "114.23986481512105",
+                "toPhone": "",
+                "companyName": "龙门铁泉温泉度假村",
+                "shortDesc": "铁泉旅游度假区拥有“三大两独”特色：亚洲最大的温泉康乐中心、全国最大的山水园林温泉、全国独有的天然黄金蒸汽浴、全国独有的珍稀黄金汤泉、广东最大温泉仿海浪冲浪。多年来，铁泉深受广大游客的喜爱，并曾荣获：“中国最佳生态园林温泉、广东十佳温泉度假酒店、广东最具吸引力温泉景区”等多个殊荣。",
+                "id": "42",
+                "pic": "http://www.gdshyj.com/shoppic/2016/5/7/48c744c6-4a57-44fc-89be-fe4ca5dfe535.jpg",
+                "title": "惠州龙门铁泉温泉度假村",
+                "lat": "23.820007375453013",
+                "createDate": "2016-05-23"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 1,
+        "totalRecord": 5,
+        "updateTime": ""
+    },
+    "status": "0"
+}

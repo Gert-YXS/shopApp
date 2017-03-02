@@ -1,0 +1,155 @@
+{
+    "url":"http://www.gdshyj.com/shop/mproduct!homepage.action?pageNum=1",
+    "msg": "",
+    "param": {
+        "advertList": [
+            {
+                "id": "25",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/16/9744cadc-c7e5-4f46-bae3-b979aedf2c6d.jpg",
+                "title": "隆重招商",
+                "url": "http://m.zhundao.net/event/6406?from=groupmessage&isappinstalled=0",
+                "createDate": "2016-06-02"
+            },
+            {
+                "id": "23",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/22/a0785a5b-a427-4aff-95a3-08ac4f70b50e.jpg",
+                "title": "方太系列",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E6%96%B9%E5%A4%AA",
+                "createDate": "2016-06-02"
+            },
+            {
+                "id": "24",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/927dfed1-556a-44b1-8b0c-138bf4e430d7.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/house_details.action?id=911",
+                "createDate": "2016-06-02"
+            },
+            {
+                "id": "27",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/10/ebb93b84-d835-42d4-925c-5c34a255de56.jpg",
+                "title": "苹果发艺·发艺城发型设计连锁",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E5%8F%91%E8%89%BA%E5%9F%8E&lat=23.083564&log=114.408304",
+                "createDate": "2016-06-27"
+            },
+            {
+                "id": "33",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/25/e8608ad9-ae57-4d5b-93c8-68947b43ceb6.jpg",
+                "title": "娅忒蜜思",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E5%A8%85%E5%BF%92&lat=23.083536&log=114.408209",
+                "createDate": "2016-10-19"
+            }
+        ]
+    },
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "79.0",
+                "salesPrice": "",
+                "shortDesc": "",
+                "id": "1571",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/7/a77ecc0f-b7f1-4dc9-bb24-059805dfad6b.jpg",
+                "title": "特卖：铁涌野生生蚝 新鲜水产海蛎子 野生大生蚝 牡蛎10斤起",
+                "createDate": "2017-02-10"
+            },
+            {
+                "salesCount": "498",
+                "marketPrice": "2599.0",
+                "salesPrice": "",
+                "shortDesc": "",
+                "id": "1175",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/26/5a5d094a-4fdc-42f3-bd8d-e40d84ad1b24.jpg",
+                "title": "抢购价：容声冰箱 BCD-296WRD1DY 风冷无霜超大两双门家用节能",
+                "createDate": "2017-02-08"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "899.0",
+                "salesPrice": "",
+                "shortDesc": "",
+                "id": "1572",
+                "pic": "http://www.gdshyj.com/shoppic/2017/2/8/fb16c51e-f895-4c61-a0c1-88f836c7c436.jpg",
+                "title": "特卖：美的洗衣机 MB55-V3006G 5.5公斤波轮 家用全自动迷你洗衣机",
+                "createDate": "2017-02-08"
+            },
+            {
+                "salesCount": "200",
+                "marketPrice": "598.0",
+                "salesPrice": "",
+                "shortDesc": "",
+                "id": "847",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/17/ab695b00-1f12-48dc-aaa8-a381a757b93b.jpg",
+                "title": "特价：新功电热水壶 F92全自动上水玻璃茶艺炉",
+                "createDate": "2017-02-06"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "599.0",
+                "salesPrice": "",
+                "shortDesc": "",
+                "id": "1325",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/20/72572a1b-cdee-4455-9b27-e98262e47df6.jpg",
+                "title": "特卖：美的电饭煲FS4027电饭煲锅4L预约定时家用",
+                "createDate": "2017-02-06"
+            },
+            {
+                "salesCount": "499",
+                "marketPrice": "268.0",
+                "salesPrice": "",
+                "shortDesc": "",
+                "id": "1466",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/24/28afd11d-34ea-40a3-8313-5e73cf226aee.jpg",
+                "title": "特卖：美的电磁炉 RT2160家用超薄触摸电磁炉",
+                "createDate": "2017-02-06"
+            },
+            {
+                "salesCount": "198",
+                "marketPrice": "4980.0",
+                "salesPrice": "",
+                "shortDesc": "",
+                "id": "893",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/14/a23b3f87-fd95-48a4-ae9d-1448b3e97fa9.jpg",
+                "title": "团购：方太油烟机CXW-200-EM02T欧式顶吸抽油烟机E型",
+                "createDate": "2017-02-06"
+            },
+            {
+                "salesCount": "499",
+                "marketPrice": "2699.0",
+                "salesPrice": "",
+                "shortDesc": "",
+                "id": "1250",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/22/242c4df1-b722-43d6-8f62-af3253fd3d34.jpg",
+                "title": "特卖：Canbo/康宝消毒柜ZTP108E-3消毒柜嵌入式低温高温双消毒",
+                "createDate": "2017-02-06"
+            },
+            {
+                "salesCount": "498",
+                "marketPrice": "999.0",
+                "salesPrice": "",
+                "shortDesc": "",
+                "id": "1176",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/17/308645e5-8b04-4e58-8bd2-656e51901934.jpg",
+                "title": "抢购价：新功鸡翅木茶盘 茶炉套装 F64(F24配F98)实木电热壶组合茶盘 全自动抽水四合一",
+                "createDate": "2017-02-06"
+            },
+            {
+                "salesCount": "1107",
+                "marketPrice": "99.0",
+                "salesPrice": "",
+                "shortDesc": "",
+                "id": "174",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/17/03520c25-a816-435b-8a93-017e7d581479.jpg",
+                "title": "特卖：新功电热水壶1L进口304不锈钢S5自动断电防干烧",
+                "createDate": "2017-02-06"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 7,
+        "totalRecord": 61,
+        "updateTime": ""
+    },
+    "status": 1
+}

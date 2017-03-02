@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=392",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "惠州市惠城区红花湖路34号",
+                "distance": "106.7",
+                "phone": "13680868705",
+                "log": "114.38276974255925",
+                "toPhone": "",
+                "companyName": "德兴自行车（红花湖）",
+                "shortDesc": "【生活一家会员专享：四人同行一人免费(车只限普通山地车)】\r\n主营：自行车租售",
+                "id": "1018",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/15/13e6c070-6dba-4d7c-ab3d-d115c7ef7eef.jpg",
+                "title": "德兴自行车（红花湖）",
+                "lat": "23.07795943820223",
+                "createDate": "2016-12-15"
+            },
+            {
+                "address": "惠州市惠城区红花湖路70号，广兴车行",
+                "distance": "106.7",
+                "phone": " 13516663389",
+                "log": "114.38276930633104",
+                "toPhone": "",
+                "companyName": "广兴车行（红花湖）",
+                "shortDesc": "【生活一家会员专享：四人同行一人免费(车只限普通山地车)】\r\n主营：自行车租售",
+                "id": "1019",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/15/39e2aec4-a305-49e2-971a-c62d9662e5de.jpg",
+                "title": "广兴车行（红花湖）",
+                "lat": "23.07685735061164",
+                "createDate": "2016-12-15"
+            },
+            {
+                "address": "惠州市惠城区下角新更塘小区",
+                "distance": "106.9",
+                "phone": "13692802237",
+                "log": "114.38774210688052",
+                "toPhone": "",
+                "companyName": "惠州微哆客（下角）",
+                "shortDesc": "【生活一家会员专享：微信公众号搭建9折优惠】惠州市微哆客科技服务有限公司是惠州本地一家专业从事个人微信号和微信公众平台的服务商，我们秉承“真诚、专业、认真、双赢”的理念与各企事业单位合作，主营业务范围包括微信公众号注册、认证、开发及运营推广的新型企业，同时业务范围包括微店、商城的搭建运营、U盘等存储介质的数据恢复、广告制作宣传、产品/宣传片/婚礼拍摄、资源整合（惠州百事通平台）等电商化服务......真诚的服务、实惠的价格、专业的技术期待与广大客户合作、交流",
+                "id": "400",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/26/2a2e6df0-74e9-4afa-ac88-098e7d274a83.png",
+                "title": "惠州微哆客（下角）",
+                "lat": "23.1078528275827",
+                "createDate": "2016-07-26"
+            },
+            {
+                "address": "惠州市惠城区鹅岭西路31号百利通广场幸福魔方一层3、10号铺(上排沃尔玛旁)，派托宠物",
+                "distance": "107.1",
+                "phone": "0752-2115118",
+                "log": "114.38680002953201",
+                "toPhone": "13531733711",
+                "companyName": "派托宠物（鹅岭）",
+                "shortDesc": "派托宠物养护中心是一群热爱宠物、追求生活品质的年轻人自立创下的品牌，用心打造惠州专业美容、健康食品及用品、放心寄养、优质宠品、宠物知识平台以及休闲娱乐于一体的宠物场所。专业宠物护理人员定时为爱宠们进行健康及心理评估，为爱宠及爱宠的主人提供健康、舒适、优质的高端宠物场所。\r\n邮箱：1114637@qq.com\r\n营业时间：10:00-20:00\r\nQQ&微信：1114637",
+                "id": "741",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/8/14e24056-198a-4262-be4e-cc1950f1d0fa.jpg",
+                "title": "派托宠物（鹅岭）",
+                "lat": "23.078880347932817",
+                "createDate": "2016-09-08"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇四角楼鹏泰购物广场一楼",
+                "distance": "107.3",
+                "phone": "13138349178",
+                "log": "114.39217607372763",
+                "toPhone": "",
+                "companyName": "VIVO专卖店（四角楼）",
+                "shortDesc": "【生活一家会员专享：购手机返300钱包】",
+                "id": "836",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/30/76aab5ec-2c72-4c55-ae96-1e3945756f80.jpg",
+                "title": "VIVO专卖店（四角楼）",
+                "lat": "23.10697043873037",
+                "createDate": "2016-09-30"
+            },
+            {
+                "address": "惠城区江北街道海伦堡一期快迪便利店",
+                "distance": "109.3",
+                "phone": "15219981688",
+                "log": "114.41280920750847",
+                "toPhone": "",
+                "companyName": "快迪便利店（江北）",
+                "shortDesc": "【生活一家会员专享：满一百元免费做摇摇车，满两百元打九折】",
+                "id": "618",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/6/73bcfa5c-8e73-4759-952b-6b4c4b9efb5b.jpg",
+                "title": "快迪便利店（江北）",
+                "lat": "23.119929899957672",
+                "createDate": "2016-08-08"
+            },
+            {
+                "address": "惠州市海燕玉兰花园北门，悠游婴童游泳馆",
+                "distance": "109.8",
+                "phone": "0752-2283998",
+                "log": "114.41233158809189",
+                "toPhone": "15913868508",
+                "companyName": "悠游婴童游泳馆（麦地）",
+                "shortDesc": "【生活一家会员专享：婴儿池33元（原价68元）、大童池28元（原价58元），现开卡或续卡游泳套餐即可领价值168元的摄影抵用券。\r\n抵用券用途：免费帮制作8*10的油画框摆台或在摄影馆当作套餐现金券使用。】\r\n悠游婴童恒温游泳馆优惠专场，这里有最实惠最优惠的价格，优惠一网打尽！同时，还有多种团购套餐供您比较、挑选，折扣超低，性价比高，帮您省钱省心。【生活一家】精心打造众多独特精品优惠产品的同时，以最优价格回馈用户，让您用最少的钱体验最好玩、最新鲜的生活方式。",
+                "id": "726",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/19/5db61f0a-16bc-4744-8ee9-241f3b025c76.jpg",
+                "title": "悠游婴童游泳馆（麦地）",
+                "lat": "23.06956357194249",
+                "createDate": "2016-12-04"
+            },
+            {
+                "address": "惠州市惠城区下埔南二街4-11号，JJ数码",
+                "distance": "109.9",
+                "phone": "13414630061",
+                "log": "114.41452460446625",
+                "toPhone": "",
+                "companyName": "JJ数码·爆屏维修（下埔）",
+                "shortDesc": "【生活一家会员专享：维修9折优惠】\r\n专业爆屏修复，苹果，华为，小米，魅族，oppo，乐视等等，专业性、价格实惠已经毋容置疑",
+                "id": "715",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/6/166258fc-3bf0-4d3d-8119-2fab6110c7be.jpg",
+                "title": "JJ数码·爆屏维修（下埔）",
+                "lat": "23.0804862465322",
+                "createDate": "2016-09-06"
+            },
+            {
+                "address": "惠州市惠城区江北佳兆业广场一楼北门",
+                "distance": "110.0",
+                "phone": "15018097374",
+                "log": "114.41887248161963",
+                "toPhone": "",
+                "companyName": "战界9DVR虚拟现实体验馆（江北佳兆业）",
+                "shortDesc": "【生活一家会员专享：7折优惠】9DVR体验馆核心结构部分：9DVR技术（显示技术:3D立体画面、125°仿生视场角，1080P双眼独立高清分辨率，特定制9DVR头盔，360°头部跟踪。、多人互动、3轴6轴数控机械设备、仿真动漫制作等技术巧妙结合于一体的创新型项目）观众可以将自己“沉浸”到各种梦境之中，仿佛拥有了哆啦A梦的任意门，随意进入到另一个从未到过的世界，享受身临其境般的体验，如虚拟大摆锤过山车、死亡扳机、模拟飞行、太空漫游、侏罗纪历险等。近几年全球流行3D/5D/7D影院，9D虚拟技术可以说又进入了一个新的世界。",
+                "id": "526",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/3/6c32d2a6-c2d9-4de7-9193-1eb656a91a6a.jpg",
+                "title": "战界9DVR虚拟现实体验馆（江北佳兆业）",
+                "lat": "23.116569689315362",
+                "createDate": "2016-08-03"
+            },
+            {
+                "address": "广东省惠州市惠城区北四街5-16号",
+                "distance": "110.0",
+                "phone": "18688339068",
+                "log": "114.41583923830717",
+                "toPhone": "",
+                "companyName": "阿旺达宠物（下埔）",
+                "shortDesc": "阿旺达宠物，精致宠生活！",
+                "id": "739",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/8/f5e5d265-b805-4835-a9b2-af46cb89216e.jpg",
+                "title": "阿旺达宠物（下埔）",
+                "lat": "23.081950210858192",
+                "createDate": "2016-09-08"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 2,
+        "totalRecord": 18,
+        "updateTime": ""
+    },
+    "status": "0"
+}

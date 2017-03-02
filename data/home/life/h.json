@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=381",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "惠州市惠城区南门路10号，琼芳美容美体",
+                "distance": "",
+                "phone": "13243806660",
+                "log": "",
+                "toPhone": "",
+                "companyName": "琼芳美容美体（南门路）",
+                "shortDesc": "【生活一家会员专享：38元超值体验：丰韵塑胸、纤体塑形、温宫排毒、肩颈舒缓任选2项。\r\n18元超值体验：美颜面部水疗一次、嫩白祛黄一次、另送(修眉+清黑头)任选面部护理1项】\r\n经营项目：面部护理（美白 补水 控油祛痘），身体理疗（经络疏通 艾灸 拔罐 火疗），仪器祛斑，永久脱毛，半永久纹绣，蒸仓理疗（减肥）",
+                "id": "1017",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/15/b76fdcca-aa2d-48b8-8219-02ce0a7404b5.jpg",
+                "title": "琼芳美容美体（南门路）",
+                "lat": "",
+                "createDate": "2016-12-15"
+            },
+            {
+                "address": "东莞市南城区鸿福路莱蒙商业中心1041A",
+                "distance": "44.5",
+                "phone": "0769-27223559",
+                "log": "113.74431970081815",
+                "toPhone": "",
+                "companyName": "苹果发艺·发艺城（鸿福店）",
+                "shortDesc": "【生活一家会员专享：消费享9折优惠】\r\n\r\n苹果发艺秉承为时尚白领、成功人士量身定制发型设计、帮顾客塑造时尚、品味、优雅、自信、散发无限魅力自我，将开心、漂亮、时尚带给每一位客人。为人们缔造时尚的美丽殿堂！\r\n",
+                "id": "908",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/25/422f593e-af71-48b1-be52-d82931600013.jpg",
+                "title": "苹果发艺·发艺城（鸿福店）",
+                "lat": "23.0151811268537",
+                "createDate": "2016-12-31"
+            },
+            {
+                "address": "惠州市博罗县园洲花园17栋6号铺",
+                "distance": "64.6",
+                "phone": "07526628827",
+                "log": "113.97518808243625",
+                "toPhone": "",
+                "companyName": "丝域养发馆hair spa（博罗园洲店）",
+                "shortDesc": "【生活一家会员专享：55元,享一次价值286元玫瑰专业洗护单人套餐】丝域率先把头皮头发养护的新观念融入美发潮流中，营造真正意义上的头皮头发养疗新概念。\r\n经过十三年的发展，目前丝域已经拥有近1500家门店（惠州有近30家门店），成为全国大型的养发连锁机构，且还在不断发展壮大。",
+                "id": "207",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/8/ab491455-66f7-4cb6-aa3e-76a2fe31dcb7.jpg",
+                "title": "丝域养发馆hair spa（博罗园洲店）",
+                "lat": "23.130277888974373",
+                "createDate": "2016-07-09"
+            },
+            {
+                "address": "东莞市黄江镇环城路星光城购物中心2层205号铺",
+                "distance": "74.2",
+                "phone": "0769-2232934",
+                "log": "114.01316015578814",
+                "toPhone": "",
+                "companyName": "发艺城·发型设计连锁（星光城分店）",
+                "shortDesc": "【生活一家会员专享：8.5折优惠】 \r\n公司秉承“品质、服务、环境、形象”的经营方针，缔造美业品牌，把开心和漂亮带给每个人，帮助每一位顾客塑造漂亮、时尚的发型，突现品味、个性的自我",
+                "id": "899",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/25/e5609b1e-42bd-4803-855b-65e5e0a2b701.jpg",
+                "title": "发艺城·发型设计连锁（星光城分店）",
+                "lat": "22.914849336292164",
+                "createDate": "2016-12-31"
+            },
+            {
+                "address": "东莞市樟木头镇华富广场一楼68号铺",
+                "distance": "79.9",
+                "phone": "0769-87792563",
+                "log": "114.0678406303295",
+                "toPhone": "",
+                "companyName": "发艺城·发型设计连锁（华富店）",
+                "shortDesc": "【生活一家会员专享：8.5折优惠】 \r\n公司秉承“品质、服务、环境、形象”的经营方针，缔造美业品牌，把开心和漂亮带给每个人，帮助每一位顾客塑造漂亮、时尚的发型，突现品味、个性的自我",
+                "id": "897",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/25/e5cbfb3f-4133-436f-8a68-4b67a584f013.jpg",
+                "title": "发艺城·发型设计连锁（华富店）",
+                "lat": "22.902809553737903",
+                "createDate": "2016-12-31"
+            },
+            {
+                "address": "广东省惠州市博罗县商业西街28号",
+                "distance": "95.6",
+                "phone": "18813487609",
+                "log": "114.28047125631166",
+                "toPhone": "",
+                "companyName": "COMO HAIR 蔻慕造型（博罗广场店）",
+                "shortDesc": "【生活一家会员专享：35元享原价68资深发型师洗剪吹；128元享原价648元资深发型师洗剪吹+资深堂；128元享原价648元资深发型师洗剪吹+欧莱雅烫染拉（以上优惠项目3选1）】\r\n\r\nCOMO HAIR蔻慕美容美发造型连锁机构是由惠州知名美发品牌T.ONE造型历经多年蜕变而成！COMO HAIR精选各门店顶尖发型师和总监，并由创始人亲自任职经营,同时引进了国内著名美甲品牌苏三说，致力打造美发美容体验一体化服务，同属于T.ONE造型连锁机构，是服务多元化人群的全新品牌！ COMO HAIR蔻慕造型始终秉承精致美发，极致服务基础下更精益求精，在这里，我们以强大的专业技术团队，和世界顶级品牌合作，以更专注的方式给顾客带来独特的美学感受。 COMO HAIR始于2008年，已经服务您七年，未来，我们竭尽所能为您服务更久！\r\n",
+                "id": "972",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/13/af5776fb-e064-41a7-a72e-fe8b558a35b3.jpg",
+                "title": "COMO HAIR 蔻慕造型（博罗广场店）",
+                "lat": "23.165500240184684",
+                "createDate": "2016-11-13"
+            },
+            {
+                "address": "博罗县罗阳镇罗阳二路七十三号",
+                "distance": "96.4",
+                "phone": "6632321 ",
+                "log": "114.28844880539677",
+                "toPhone": "",
+                "companyName": "Fashion Queen时尚女皇（罗阳）",
+                "shortDesc": "【生活一家会员专享9折优惠】，美甲是一种对指(趾)甲进行装饰美化的工作，又称甲艺设计。美甲是根据客人的手形、甲形、肤质、服装的色彩和要求，对指(趾)甲进行消毒、清洁、护理、保养、修饰美化的过程。具有表现形式多样化的特点。",
+                "id": "186",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/5/97a42294-9746-4c5f-86af-b8ae0a70b803.jpg",
+                "title": "Fashion Queen时尚女皇美甲美容（罗阳）",
+                "lat": "23.170365724767642",
+                "createDate": "2016-07-06"
+            },
+            {
+                "address": "惠州市博罗县罗阳镇罗阳二路文一书店旁千艺造型",
+                "distance": "96.4",
+                "phone": "07526215811",
+                "log": "114.2884614762109",
+                "toPhone": "13169593878",
+                "companyName": "千艺造型（名豪店）罗阳",
+                "shortDesc": "【生活一家会员专享：做头发8折，剪头发九折】千艺造型：位于罗阳二路繁华的商业中心，是一家旗舰性的美发沙龙，以专业的水准，一流的服务赢得广大顾客的信赖。",
+                "id": "181",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/4/95b762f2-0e43-4d1e-8b67-6504165b698d.jpg",
+                "title": "千艺造型（名豪店）罗阳",
+                "lat": "23.17070779558908",
+                "createDate": "2016-07-04"
+            },
+            {
+                "address": "博罗县罗阳镇公园东路35号",
+                "distance": "97.8",
+                "phone": "0752-6631338",
+                "log": "114.3019302357905",
+                "toPhone": "15875236664",
+                "companyName": " 权健康富丽养生馆（博罗）",
+                "shortDesc": "【生活一家会员专享：消费享8.5折优惠】",
+                "id": "783",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/19/36a0b621-8bc7-4d92-b04f-e8f6b55bdbe2.jpg",
+                "title": " 权健康富丽养生馆（博罗）",
+                "lat": "23.173709444449642",
+                "createDate": "2016-09-20"
+            },
+            {
+                "address": "商业东街东森华庭C栋02号商铺美然汗蒸会所 会员折扣9折",
+                "distance": "98.0",
+                "phone": "6283086",
+                "log": "114.30331997812907",
+                "toPhone": "",
+                "companyName": "美然汗蒸会所（罗阳）",
+                "shortDesc": "【生活一家专享优惠9折】汗蒸是一种休闲项目，是能量谷热疗的一种，历史悠久，深受民众喜爱。",
+                "id": "245",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/de818aa6-29ae-446a-a4d3-5131c104bf25.jpg",
+                "title": "美然汗蒸会所（罗阳）",
+                "lat": "23.17366993278238",
+                "createDate": "2016-07-13"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 16,
+        "totalRecord": 151,
+        "updateTime": ""
+    },
+    "status": "0"
+}

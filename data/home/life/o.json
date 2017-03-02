@@ -1,0 +1,247 @@
+{
+    "url":"http://www.gdshyj.com/shop/mbussinfo!list.action?pageNum=1&log=113.3526&lat=23.180556&categoryId=389",
+    "leftNavUrl": "http://www.gdshyj.com/shop/mcategory!list.action?type=7",
+    "scrollImg":"http://www.gdshyj.com/shop/mproduct!list.action?productType=7&type=7&advertType=2",
+    "msg": "",
+    "list": {
+        "columnIcon": "",
+        "msgCount": 0,
+        "scrollImg": [
+            {
+                "id": "26",
+                "pic": "http://www.gdshyj.com/shoppic/2016/6/25/f1ddcdf8-cfa5-4fa5-8587-2e36b6f6f1af.jpg",
+                "title": "趣道贡茶",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E8%B6%A3%E9%81%93&lat=23.083464&log=114.408328",
+                "createDate": "2016-06-25"
+            },
+            {
+                "id": "30",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/e231c3ae-0280-4533-b5b6-d02ec6db35e7.jpg",
+                "title": "丝域",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E4%B8%9D%E5%9F%9F&lat=23.083739&log=114.408386",
+                "createDate": "2016-07-16"
+            },
+            {
+                "id": "34",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/27/4d2ed21a-78a6-4168-a384-3287b6e8612b.jpg",
+                "title": "香港祥兴茶餐厅",
+                "url": "http://www.gdshyj.com/shop/webapp/index/house/search_result.action?searchKey=%E9%A6%99%E6%B8%AF%E7%A5%A5%E5%85%B4&lat=23.083563&log=114.408341",
+                "createDate": "2016-10-27"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "188",
+                "title": "地产"
+            },
+            {
+                "id": "189",
+                "title": "装饰家居"
+            },
+            {
+                "id": "258",
+                "title": "汽车"
+            },
+            {
+                "id": "259",
+                "title": "金融财税"
+            },
+            {
+                "id": "260",
+                "title": "酒店"
+            },
+            {
+                "id": "261",
+                "title": "餐饮"
+            },
+            {
+                "id": "263",
+                "title": "夜生活"
+            },
+            {
+                "id": "381",
+                "title": "美体休闲"
+            },
+            {
+                "id": "382",
+                "title": "专卖"
+            },
+            {
+                "id": "383",
+                "title": "茶艺收藏"
+            },
+            {
+                "id": "384",
+                "title": "旅游"
+            },
+            {
+                "id": "385",
+                "title": "体育保健"
+            },
+            {
+                "id": "386",
+                "title": "广告花木"
+            },
+            {
+                "id": "388",
+                "title": "婚纱摄影"
+            },
+            {
+                "id": "389",
+                "title": "教育培训"
+            },
+            {
+                "id": "392",
+                "title": "其它"
+            }
+        ],
+        "pageList": [
+            {
+                "address": "",
+                "distance": "",
+                "phone": "4008903333",
+                "log": "",
+                "toPhone": "",
+                "companyName": "互联网100教育",
+                "shortDesc": "100教育是一家专注于初高中一对一辅导的互联网教育机构，是美国纳斯达克上市公司欢聚时代旗下教育品牌，董事长是小米公司的雷军，欢聚时代副总裁刘豫军任负责人",
+                "id": "58",
+                "pic": "http://www.gdshyj.com/shoppic/2016/5/12/95c1ef9f-cbf2-407f-92ee-6ffc18946786.jpg,http://www.gdshyj.com/shoppic/2016/5/12/a3646737-f31c-4d5f-9bf9-3660f47f4ab2.jpg",
+                "title": "100教育",
+                "lat": "",
+                "createDate": "2016-05-18"
+            },
+            {
+                "address": "博罗县罗阳镇东森华庭公园东路20-22号（华桂园正门对面）",
+                "distance": "97.9",
+                "phone": "0752-6668819",
+                "log": "114.30233993479513",
+                "toPhone": "13068201200",
+                "companyName": "舞音国际艺术培训中心（博罗）",
+                "shortDesc": "【生活一家会员专享：一人报名8.8折、两人报名7.8折。全部项目均可折扣（具体项目有民族少儿舞蹈、钢琴、吉他、友克里里、瑜伽、美术）】",
+                "id": "814",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/26/92195c65-97b0-4f71-a3b6-eb7d218a3c09.jpg",
+                "title": "舞音国际艺术培训中心（博罗）",
+                "lat": "23.17304970179923",
+                "createDate": "2016-11-11"
+            },
+            {
+                "address": "惠州市仲恺高新区和畅五路（西）7号",
+                "distance": "104.6",
+                "phone": "13928301257",
+                "log": "114.35439849082033",
+                "toPhone": "",
+                "companyName": "源诚驾校（仲恺康城四季时尚招生点）",
+                "shortDesc": "【生活一家会员专享：驾驶证业务9折优惠】\r\n\r\n专业：大、小汽车驾驶员、摩托车驾驶员技术培训\r\n业务范围：驾驶业务、换证、迁证、补证、车辆年审、车辆过户、回收二手车等业务\r\n本公司训练主场：陈江大光头村（内设一万平方综合标准模拟考试训练基地）\r\n辅场：小金口高依村、古塘坳训练场\r\n",
+                "id": "816",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/26/90a18018-3bfb-4813-97ce-c5410fe51b5d.jpg",
+                "title": "源诚驾校（仲恺康城四季时尚招生点）",
+                "lat": "23.02384491776831",
+                "createDate": "2016-11-11"
+            },
+            {
+                "address": "惠城区万林湖别墅区碧林苑B10-102室",
+                "distance": "107.0",
+                "phone": "18688300761",
+                "log": "114.38391998107122",
+                "toPhone": "",
+                "companyName": "精鹰书画培训馆（万林湖）",
+                "shortDesc": "【生活一家会员专享：9折优惠】 开设课程：美术、书法、陶艺、艺术创想",
+                "id": "939",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/3/acb05009-bf39-4d67-80fb-2083dbb94a6a.jpg",
+                "title": "精鹰书画培训馆（万林湖）",
+                "lat": "23.06136995991687",
+                "createDate": "2016-11-11"
+            },
+            {
+                "address": "惠城区鹅岭南路104号金辉新苑乐新居1楼13-14号铺",
+                "distance": "108.1",
+                "phone": "18688300761",
+                "log": "114.39460038983621",
+                "toPhone": "",
+                "companyName": "精鹰书画培训馆（鹅岭）",
+                "shortDesc": "【生活一家会员专享：9折优惠】 开设课程：美术、书法、陶艺、艺术创想",
+                "id": "944",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/3/71c4faf8-af36-493a-8875-3b4f8d4a1132.jpg",
+                "title": "精鹰书画培训馆（鹅岭）",
+                "lat": "23.058300212774242",
+                "createDate": "2016-11-11"
+            },
+            {
+                "address": "惠州市仲恺大道惠环段303号富川瑞园7栋113-114商铺和音琴行",
+                "distance": "108.2",
+                "phone": "18688300761",
+                "log": "114.39520044092515",
+                "toPhone": "",
+                "companyName": "精鹰书画培训馆（仲恺）",
+                "shortDesc": "【生活一家会员专享：9折优惠】 开设课程：美术、书法、陶艺、艺术创想",
+                "id": "941",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/3/4478cc78-b3fc-421a-be1a-217592bc4f43.jpg",
+                "title": "精鹰书画培训馆（仲恺）",
+                "lat": "23.058045703300664",
+                "createDate": "2016-11-11"
+            },
+            {
+                "address": "惠城区三新北路6号法律服务创意园广东达伦律师事务",
+                "distance": "108.8",
+                "phone": "07522635619",
+                "log": "114.40681982489635",
+                "toPhone": "2635629 ",
+                "companyName": "广东达伦律师事务",
+                "shortDesc": "广东达伦律师事务所是惠州地区首家以“公司化管理、团队式运作”为经营模式，以“求真务实，开拓创新、锐意进取”为工作作风，以“战略合作、资源整合、实现共赢”为价值取向，致力于打造为专业的法务外包“供应商”，从而优化企业管理，使企业专注于主营业务，以增强竞争实力。",
+                "id": "71",
+                "pic": "http://www.gdshyj.com/shoppic/2016/5/13/46bf1447-f949-4312-9db3-045a142d2988.jpg",
+                "title": "广东达伦律师事务",
+                "lat": "23.114632847965694",
+                "createDate": "2016-06-07"
+            },
+            {
+                "address": "惠城区小金口金宝山庄南苑商铺39号铺彩虹培训中心",
+                "distance": "108.8",
+                "phone": "18688300761",
+                "log": "114.40918956225053",
+                "toPhone": "",
+                "companyName": "精鹰书画培训馆（小金口）",
+                "shortDesc": "【生活一家会员专享：9折优惠】 开设课程：美术、书法、陶艺、艺术创想",
+                "id": "943",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/3/c4b322fd-9cdc-41ed-9a1e-f0214534ef77.jpg",
+                "title": "精鹰书画培训馆（小金口）",
+                "lat": "23.18917048355733",
+                "createDate": "2016-11-11"
+            },
+            {
+                "address": "惠州市惠城区水门路26号精鹰书画培训馆",
+                "distance": "108.8",
+                "phone": "18688300761",
+                "log": "114.40515007250248",
+                "toPhone": "",
+                "companyName": "精鹰书画培训馆（水门路）",
+                "shortDesc": "【生活一家会员专享：9折优惠】\r\n开设课程：美术、书法、陶艺、艺术创想",
+                "id": "718",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/3/56ba7046-73c5-48ba-9fcd-85f4b2a2a352.jpg",
+                "title": "精鹰书画培训馆（水门路）",
+                "lat": "23.089550242495992",
+                "createDate": "2016-11-11"
+            },
+            {
+                "address": "惠城区江北金裕碧水湾金辉苑206号铺智慧谷教育",
+                "distance": "109.0",
+                "phone": "18688300761",
+                "log": "114.40794010673277",
+                "toPhone": "",
+                "companyName": "精鹰书画培训馆（江北）",
+                "shortDesc": "【生活一家会员专享：9折优惠】 开设课程：美术、书法、陶艺、艺术创想",
+                "id": "942",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/3/e81fa79d-6b82-4155-bd83-0e732a13a17e.jpg",
+                "title": "精鹰书画培训馆（江北）",
+                "lat": "23.105370621982505",
+                "createDate": "2016-11-11"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 3,
+        "totalRecord": 21,
+        "updateTime": ""
+    },
+    "status": "0"
+}

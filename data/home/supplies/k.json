@@ -1,0 +1,210 @@
+{
+    "list": {
+        "scrollImg": [
+            {
+                "id": "10",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/21/0ee58831-74d7-4e04-9b78-3fef9e21bd62.jpg",
+                "title": "先锋暖风机",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%85%88%E9%94%8B%E6%9A%96%E9%A3%8E%E6%9C%BA",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "32",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/7/4457b6be-21fd-4c16-a8c8-200633069944.jpg",
+                "title": "",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/info.action?id=1143",
+                "createDate": "2016-10-07"
+            },
+            {
+                "id": "19",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/4/756e198b-05f8-4335-8473-14a79733ec06.jpg",
+                "title": "飞科 带你走进科技的世界",
+                "url": "http://www.gdshyj.com/webapp/index/search_result.action?searchKey=%E9%A3%9E%E7%A7%91",
+                "createDate": "2016-02-20"
+            },
+            {
+                "id": "29",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/44bbf26c-d3c7-44a7-90f2-a4f5f9e2c045.jpg",
+                "title": "苏泊尔",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E8%8B%8F%E6%B3%8A%E5%B0%94",
+                "createDate": "2016-07-11"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "232",
+                "title": "小家电"
+            },
+            {
+                "id": "233",
+                "title": "大家电"
+            },
+            {
+                "id": "234",
+                "title": "手机数码"
+            },
+            {
+                "id": "336",
+                "title": "电脑办公"
+            },
+            {
+                "id": "337",
+                "title": "名表首饰"
+            },
+            {
+                "id": "365",
+                "title": "化妆品"
+            },
+            {
+                "id": "370",
+                "title": "服装"
+            },
+            {
+                "id": "371",
+                "title": "女装"
+            },
+            {
+                "id": "372",
+                "title": "母婴"
+            },
+            {
+                "id": "373",
+                "title": "鞋靴箱包"
+            },
+            {
+                "id": "374",
+                "title": "运动户外"
+            },
+            {
+                "id": "375",
+                "title": "汽车用品"
+            },
+            {
+                "id": "380",
+                "title": "日常用品"
+            },
+            {
+                "id": "395",
+                "title": "床上用品"
+            }
+        ],
+        "pageList": [
+            {
+                "salesCount": "500",
+                "marketPrice": "498.0",
+                "salesPrice": "398.0",
+                "sysTime": "2017-02-21 16:48:31",
+                "id": "1500",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/5/27f4f5f4-bed0-4352-a844-ca5b8735d723.jpg",
+                "title": "洗牙器 唯爱冷光牙齿美白仪 速效四环素牙氟斑牙黄牙洁牙美牙仪神器",
+                "content": "<div style=\"text-align: center;\">\r\n\t<span style=\"color:#000080;\"><strong><span style=\"font-size:22px;\">购买后返40红包</span></strong></span><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/5/e94d0921-95bc-4cb8-8f04-521f001e8fe4.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/5/ecbac906-335c-41a8-a9e6-2b89e9badcb4.jpg\" /></div>\r\n",
+                "createDate": "2017-01-05"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "79.0",
+                "salesPrice": "45.0",
+                "sysTime": "2017-02-21 16:48:31",
+                "id": "1499",
+                "pic": "http://www.gdshyj.com/shoppic/2017/1/4/b6089a4c-405e-4a9b-ac32-db6eed89592f.jpg",
+                "title": "目目蒸汽眼罩 预防近视 安神安眠  去除眼袋黑眼圈",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/4/1e27c09d-fab5-4853-bfda-1a67de9f46cc.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2017/1/4/28354aef-a182-43f7-bc90-63bbc65d465a.jpg\" /></div>\r\n",
+                "createDate": "2017-01-04"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "138.0",
+                "salesPrice": "99.0",
+                "sysTime": "2017-02-21 16:48:31",
+                "id": "1481",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/27/2db0d6a9-c29a-409d-83ac-93b35cbcfe69.jpg",
+                "title": "黛诗洗发水洗护套装新版黛诗洗发露玛思卡华控油去屑360ml",
+                "content": "<div style=\"text-align: center;\">\r\n\t<span style=\"font-size:16px;\"><span style=\"color: rgb(102, 102, 102); font-family: tahoma, arial, 微软雅黑, sans-serif; line-height: 18px; white-space: nowrap;\">功效:&nbsp;柔软顺滑&nbsp;深层修复&nbsp;滋润营养</span></span><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/27/a57f4053-7dd9-4ab5-a385-dcecaa0a0f4f.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/27/8d3038aa-cfad-4c0d-88b3-b2e3e5cd0379.jpg\" /></div>\r\n",
+                "createDate": "2016-12-27"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "338.0",
+                "salesPrice": "138.0",
+                "sysTime": "2017-02-21 16:48:31",
+                "id": "1409",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/13/6d587b3b-7291-40be-a157-f450b5d2f222.jpg",
+                "title": "最印冷光美牙仪 口腔护理 除臭杀菌 美白牙齿 新技术",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/13/ecdbf2bf-b151-4d55-871c-dabb6512eebd.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/13/281cd0af-addc-4cbc-8335-4909f6367905.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/13/44944c25-50fb-4580-b7e7-e00c70fa958f.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/13/6f5f060d-38aa-4d92-810a-ec76c4826f29.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/13/47e5be0a-d2d1-4566-bf8e-c92a6ed5656f.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/13/c42417ef-0b96-4ae1-8e70-e7c56d4d8001.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/13/1dba6ea2-b577-4676-95b8-daac7a3ab18c.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/13/9195c691-d48a-4e47-b503-be0b03fc5b00.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/13/29e09875-1aab-4d5c-8915-b0aef8e72a72.jpg\" /></div>\r\n",
+                "createDate": "2016-12-13"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "368.0",
+                "salesPrice": "255.0",
+                "sysTime": "2017-02-21 16:48:31",
+                "id": "1382",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/7/ec7ace96-deba-4fd9-b091-c0eca6c8ea46.jpg",
+                "title": "李时珍黄金视力好眼贴膜 缓解疲劳预防近视去眼袋黑眼圈100袋",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/7/f0151a16-daac-412c-b399-400b52651e49.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/7/acabd171-a1c1-40a0-b1d9-38024bdc3cdc.jpg\" /></div>\r\n",
+                "createDate": "2016-12-07"
+            },
+            {
+                "salesCount": "500",
+                "marketPrice": "399.0",
+                "salesPrice": "279.0",
+                "sysTime": "2017-02-21 16:48:31",
+                "id": "1359",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/4/bb430f59-8fc4-442f-b7fd-54f233f69d16.jpg",
+                "title": "碧缇福美牙仪冷光牙齿美白仪去牙渍大黄牙速效洗牙神器",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/4/c9d603d7-fa11-4275-8688-1b729c858ae7.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/12/4/64c5abc3-889d-416a-930f-56381be99ac5.jpg\" /></div>\r\n",
+                "createDate": "2016-12-04"
+            },
+            {
+                "salesCount": "100",
+                "marketPrice": "55.0",
+                "salesPrice": "45.0",
+                "sysTime": "2017-02-21 16:48:31",
+                "id": "1143",
+                "pic": "http://www.gdshyj.com/shoppic/2016/9/22/de9ec420-8b7c-4511-bca7-ce5bd74a12bc.jpg",
+                "title": "红瑶淘米水洗发水正品 ",
+                "content": "<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/22/6971e78e-30f6-4781-a201-5c865a7fb7c2.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/9/22/88623c9e-e9c4-4be9-bc36-0ad30a3a8392.jpg\" />",
+                "createDate": "2016-09-22"
+            },
+            {
+                "salesCount": "300",
+                "marketPrice": "480.0",
+                "salesPrice": "380.0",
+                "sysTime": "2017-02-21 16:48:31",
+                "id": "969",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/5/3cec351c-5ef2-4e5e-b7d8-1655a65e026f.jpg",
+                "title": "royal latex泰国皇家进口纯天然乳胶枕头橡胶颈椎枕 美容颗粒枕 代购",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/797bb7c5-0c95-46aa-b185-95598df90ace.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/073af77d-0f39-4976-a531-96625da79ac5.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/e95ec783-0209-4e86-8f54-8a5df44611d1.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/e5d378e6-73e5-402e-a097-cb59d7b91cb1.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/4e7a5e6e-34d5-4f85-aa1e-d721e2b4701d.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/ba3cfeb3-90fa-4521-8b60-0c27b0016e29.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/af307842-c78a-4240-ac78-7593f74943d1.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/ab265f4d-29dd-4116-9248-414c19943b4e.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/5238e5a8-632d-41c2-ae1a-0830adb782a9.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/dfe43221-8553-4f88-afb8-672a74cf2642.jpg\" /></div>\r\n",
+                "createDate": "2016-08-05"
+            },
+            {
+                "salesCount": "300",
+                "marketPrice": "480.0",
+                "salesPrice": "380.0",
+                "sysTime": "2017-02-21 16:48:31",
+                "id": "968",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/5/d09c529c-c5d4-46e1-8fa6-98157a3505e0.jpg",
+                "title": "royal latex泰国皇家进口纯天然乳胶枕头橡胶颈椎枕 高低平面枕 代购",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/52ed15f4-2894-4571-8330-25708b053820.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/62bab66d-85b8-4b5e-94d8-62d82f175fad.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/c4af9ad3-d2dc-4965-9a09-745d7928830a.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/c9f6b279-7442-420f-930d-1693b615defc.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/d6fe9b77-b5f3-4c92-9add-5a1403795268.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/c9920fb5-1a0c-45cc-8cf1-613c1554c3e3.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/eeb3e476-4cb5-40f8-b080-2c4947258b30.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/08ebf7fe-b2e8-43d8-a4f9-b7bdf398c210.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/30e4cfd2-0eca-4efb-a2c1-5b22e3c49982.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/865b9350-4327-421c-b1cc-26dc71a0ee47.jpg\" /></div>\r\n",
+                "createDate": "2016-08-05"
+            },
+            {
+                "salesCount": "300",
+                "marketPrice": "480.0",
+                "salesPrice": "380.0",
+                "sysTime": "2017-02-21 16:48:31",
+                "id": "967",
+                "pic": "http://www.gdshyj.com/shoppic/2016/8/5/83a4d76b-e3fa-4276-aa6a-30ec43ac7329.jpg",
+                "title": "royal latex泰国皇家进口纯天然乳胶高低颗粒枕头代购",
+                "content": "<div style=\"text-align: center;\">\r\n\t<img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/08ce69f1-241e-464d-a82f-80ab512a4f49.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/43e366bc-3e08-4fcc-9cb2-68ec0c928d2c.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/b97b05c4-8caa-4230-bca3-4860d47d070c.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/b7f8a39a-e4a0-432c-9e4f-7f82bac183d2.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/13cefa72-5274-4a9d-91ab-cb010bd9dcfd.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/9e7f0e5c-7ea6-4117-a35d-a0d115bdf360.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/195653e3-3300-4c4e-82a4-9bf3b761284c.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/205da091-d4d0-4354-bce4-4a738a614171.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/03c336fb-ec46-4a37-9b93-23f9146a68ab.jpg\" /><img alt=\"\" src=\"http://www.gdshyj.com/shoppic/2016/8/5/66e6ed8a-eb9f-43e7-b682-74c698c48e7a.jpg\" /></div>\r\n",
+                "createDate": "2016-08-05"
+            }
+        ],
+        "pageNum": 1,
+        "pageSize": 10,
+        "totalPage": 3,
+        "totalRecord": 24,
+        "updateTime": ""
+    },
+    "status": 0
+}

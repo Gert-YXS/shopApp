@@ -1,0 +1,92 @@
+{
+    "list": {
+        "scrollImg": [
+            {
+                "id": "10",
+                "pic": "http://www.gdshyj.com/shoppic/2016/11/21/0ee58831-74d7-4e04-9b78-3fef9e21bd62.jpg",
+                "title": "先锋暖风机",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E5%85%88%E9%94%8B%E6%9A%96%E9%A3%8E%E6%9C%BA",
+                "createDate": "2015-12-30"
+            },
+            {
+                "id": "32",
+                "pic": "http://www.gdshyj.com/shoppic/2016/10/7/4457b6be-21fd-4c16-a8c8-200633069944.jpg",
+                "title": "",
+                "url": "http://www.gdshyj.com/shop/webapp/assortment/info.action?id=1143",
+                "createDate": "2016-10-07"
+            },
+            {
+                "id": "19",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/4/756e198b-05f8-4335-8473-14a79733ec06.jpg",
+                "title": "飞科 带你走进科技的世界",
+                "url": "http://www.gdshyj.com/webapp/index/search_result.action?searchKey=%E9%A3%9E%E7%A7%91",
+                "createDate": "2016-02-20"
+            },
+            {
+                "id": "29",
+                "pic": "http://www.gdshyj.com/shoppic/2016/7/11/44bbf26c-d3c7-44a7-90f2-a4f5f9e2c045.jpg",
+                "title": "苏泊尔",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E8%8B%8F%E6%B3%8A%E5%B0%94",
+                "createDate": "2016-07-11"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "232",
+                "title": "小家电"
+            },
+            {
+                "id": "233",
+                "title": "大家电"
+            },
+            {
+                "id": "234",
+                "title": "手机数码"
+            },
+            {
+                "id": "336",
+                "title": "电脑办公"
+            },
+            {
+                "id": "337",
+                "title": "名表首饰"
+            },
+            {
+                "id": "365",
+                "title": "化妆品"
+            },
+            {
+                "id": "370",
+                "title": "服装"
+            },
+            {
+                "id": "371",
+                "title": "女装"
+            },
+            {
+                "id": "372",
+                "title": "母婴"
+            },
+            {
+                "id": "373",
+                "title": "鞋靴箱包"
+            },
+            {
+                "id": "374",
+                "title": "运动户外"
+            },
+            {
+                "id": "375",
+                "title": "汽车用品"
+            },
+            {
+                "id": "380",
+                "title": "日常用品"
+            },
+            {
+                "id": "395",
+                "title": "床上用品"
+            }
+        ]
+    } 
+}

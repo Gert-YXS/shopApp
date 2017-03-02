@@ -1,0 +1,35 @@
+{
+    "list": {
+        "scrollImg": [
+            {
+                "id": "9",
+                "pic": "http://www.gdshyj.com/shoppic/2016/12/7/e7387dad-3e4b-479a-9a2c-6578b725ba7b.jpg",
+                "title": "竹天下家具",
+                "url": "http://www.gdshyj.com/shop/webapp/index/search_result.action?searchKey=%E7%AB%B9%E5%A4%A9%E4%B8%8B",
+                "createDate": "2015-12-30"
+            }
+        ],
+        "leftNav": [
+            {
+                "id": "239",
+                "title": "厨具"
+            },
+            {
+                "id": "240",
+                "title": "家具"
+            },
+            {
+                "id": "241",
+                "title": "灯具"
+            },
+            {
+                "id": "242",
+                "title": "五金"
+            },
+            {
+                "id": "243",
+                "title": "饰品"
+            }
+        ]
+    } 
+}
